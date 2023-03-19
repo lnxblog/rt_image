@@ -59,6 +59,8 @@ void CannyThreshold(int, void*)
 
 }
 
+void (*transform_funcs[3])(int,void*)={CannyThreshold};
+
 pthread_attr_t main_attr;
 void print_scheduler(void)
 {
@@ -105,7 +107,7 @@ void readFrame()
 
 void processFrame()
 {
-    CannyThreshold(0, 0);
+    transform_funcs[transform_index](0,0);
 }
 #define SEC_TO_NSEC 1000000000
 sem_t sem1,sem2;
