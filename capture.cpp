@@ -22,6 +22,7 @@ using namespace cv;
 // Transform display window
 char timg_window_name[] = "Edge Detector Transform";
 Size img_resolution[3]={Size(640,480),Size(320,240),Size(160,120)};
+
 int resolution_index;
 int transform_index;
 int lowThreshold=0;
@@ -303,49 +304,5 @@ int main( int argc, char** argv )
     transformer_thread = new std::thread(transformer,rt_max_prio-2);
     logger_thread = new std::thread(logger,rt_max_prio-3);
     capture_thread->join();
-    
-    
-    //--- INITIALIZE VIDEOCAPTURE
-
-    // open the default camera using default API
-    // cap.open(0);
-    // OR advance usage: select any API backend
-
-    #if 0
-    namedWindow( timg_window_name, CV_WINDOW_AUTOSIZE );
-    // Create a Trackbar for user to enter threshold
-    createTrackbar( "Min Threshold:", timg_window_name, &lowThreshold, max_lowThreshold, CannyThreshold );
-    struct timespec start,stop;
-    long sec,nsec;
-    while(1)
-    {
-        clock_gettime(CLOCK_MONOTONIC,&start);
-        cap.read(frame);
-        // check if we succeeded
-        if (frame.empty()) {
-            printf("ERROR! blank frame grabbed\n");
-            break;
-        }
-        // show live and wait for a key with timeout long enough to show images
-        //imshow("Live", frame);
-
-        CannyThreshold(0, 0);
-
-        char q = cvWaitKey(33);
-        if( q == 'q' )
-        {
-            printf("got quit\n"); 
-            break;
-        }
-
-        clock_gettime(CLOCK_MONOTONIC,&stop);
-        sec = stop.tv_sec-start.tv_sec;
-        nsec = stop.tv_nsec-start.tv_nsec;
-        printf("time taken %lu s %lu ns\n",sec,nsec);
-        sleep(1);
-    }
-    #endif
-
-    
     
 };
