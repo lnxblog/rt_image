@@ -112,7 +112,8 @@ void processFrame()
 
 sem_t sem1,sem2;
 struct timespec start,stop;
-long average_time;
+unsigned long average_time;
+unsigned long frame_no;
 int complete=1; // set by logger to indicate completion, else missed deadline
 void capturer(int prio)
 {
@@ -135,6 +136,7 @@ void capturer(int prio)
         complete=0;
         clock_gettime(CLOCK_MONOTONIC,&start);
         deadline = start.tv_sec*SEC_TO_NSEC + start.tv_nsec + wcet;
+        printf("Frame #%lu\n",frame_no++);
         printf("start at %lu\n",start.tv_sec*SEC_TO_NSEC + start.tv_nsec);
         printf("deadline with margin set %lu\n",deadline);
         readFrame();
