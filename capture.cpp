@@ -18,7 +18,7 @@ using namespace cv;
 
 #define HRES 640
 #define VRES 480
-
+#define SEC_TO_NSEC 1000000000
 // Transform display window
 char timg_window_name[] = "Edge Detector Transform";
 Size img_resolution[3]={Size(640,480),Size(320,240),Size(160,120)};
@@ -109,8 +109,10 @@ void processFrame()
 {
     transform_funcs[transform_index](0,0);
 }
-#define SEC_TO_NSEC 1000000000
+
 sem_t sem1,sem2;
+struct timespec start,stop;
+long average_time;
 int complete=1; // set by logger to indicate completion, else missed deadline
 void capturer(int prio)
 {
@@ -125,20 +127,20 @@ void capturer(int prio)
     
     int ret = pthread_barrier_wait(&bar);
     long sleep_ns;
-    struct timespec start,stop,sleep_ts;
+    struct timespec frame_capture_ts,sleep_ts;
     while(1)
     {
-      //  getcpu(&cpu,&node);
         if(!complete)
         printf("MISSED DEADLINE\n");
         complete=0;
         clock_gettime(CLOCK_MONOTONIC,&start);
         deadline = start.tv_sec*SEC_TO_NSEC + start.tv_nsec + wcet;
-        printf("deadline set %lu\n",deadline);
+        printf("start at %lu\n",start.tv_sec*SEC_TO_NSEC + start.tv_nsec);
+        printf("deadline with margin set %lu\n",deadline);
         readFrame();
-        clock_gettime(CLOCK_MONOTONIC,&stop);
-        sleep_ns = deadline-(stop.tv_sec*SEC_TO_NSEC+stop.tv_nsec);
-        printf("%d sleeping %lu\n",prio,sleep_ns);
+        clock_gettime(CLOCK_MONOTONIC,&frame_capture_ts);
+        sleep_ns = deadline-(frame_capture_ts.tv_sec*SEC_TO_NSEC+frame_capture_ts.tv_nsec);
+        //printf("%d sleeping %lu\n",prio,sleep_ns);
         sleep_ts.tv_sec=sleep_ns/SEC_TO_NSEC;
         sleep_ts.tv_nsec=sleep_ns%SEC_TO_NSEC;
 
@@ -163,27 +165,15 @@ void logger(int prio)
     pthread_setaffinity_np(current_thread, sizeof(cpu_set_t), &cpuset);
     pthread_setschedparam(current_thread, SCHED_FIFO,&sparam);
     int ret = pthread_barrier_wait(&bar);
-    long slack_time;
-    struct timespec stop,sleep_ts;
+    long int jitter;
+    
     while(1)
     {
         sem_wait(&sem2);
         clock_gettime(CLOCK_MONOTONIC,&stop);
-        slack_time = deadline-(stop.tv_sec*SEC_TO_NSEC + stop.tv_nsec);
-        if(slack_time>=0)
-        {
-            printf("Completed at %lu. Slack time %lu\n",stop.tv_sec*SEC_TO_NSEC + stop.tv_nsec,slack_time);
-            //sleep_ts.tv_sec=slack_time/SEC_TO_NSEC;
-            //sleep_ts.tv_nsec=slack_time%SEC_TO_NSEC;
-            //int ret=nanosleep(&sleep_ts,0);
-            //if(ret==-1)
-            //printf("interrupted\n");
-        }
-        else
-        {
-            printf("Missed deadline %lu. Slack time %lu\n",stop.tv_sec*SEC_TO_NSEC + stop.tv_nsec,slack_time);
-        }
+        jitter = average_time-((stop.tv_sec-start.tv_sec)*SEC_TO_NSEC + (stop.tv_nsec-start.tv_nsec));
         complete=1;
+        printf("stop at %lu. Jitter %ld\n",stop.tv_sec*SEC_TO_NSEC + stop.tv_nsec,jitter);
         
     }
 
@@ -221,7 +211,7 @@ void transformer(int prio)
 }
 void getDeadline()
 {
-    long average_time;
+
     struct timespec start,stop;
     long sec,nsec;
     imshow( timg_window_name,0); // prevents initial lag to open image window
@@ -241,7 +231,7 @@ void getDeadline()
         //sleep(1);
     }
     printf("time taken %lu ns \n",average_time);
-    wcet = average_time+average_time*0.2;
+    wcet = average_time+average_time*0.12;
     printf("wcet with margin: %lu ns\n",wcet);
 
 }
