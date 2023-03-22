@@ -1,0 +1,6262 @@
+circles.size = 0
+time taken 0 s 397842336 ns
+circles.size = 0
+time taken 0 s 196645819 ns
+circles.size = 0
+time taken 0 s 127987724 ns
+circles.size = 0
+time taken 0 s 151358587 ns
+circles.size = 0
+time taken 1 s 3444724242 ns
+circles.size = 0
+time taken 0 s 135209198 ns
+circles.size = 0
+time taken 0 s 130922442 ns
+circles.size = 0
+time taken 0 s 142873631 ns
+circles.size = 0
+time taken 0 s 140948612 ns
+circles.size = 0
+time taken 0 s 139869828 ns
+circles.size = 0
+time taken 0 s 138331112 ns
+circles.size = 0
+time taken 1 s 3435923982 ns
+circles.size = 0
+time taken 0 s 146666361 ns
+circles.size = 0
+time taken 0 s 143836760 ns
+circles.size = 0
+time taken 0 s 141933033 ns
+circles.size = 0
+time taken 0 s 147237897 ns
+circles.size = 0
+time taken 0 s 144669103 ns
+circles.size = 0
+time taken 0 s 138865575 ns
+circles.size = 0
+time taken 1 s 3434910455 ns
+circles.size = 0
+time taken 0 s 137234457 ns
+circles.size = 0
+time taken 0 s 135757206 ns
+circles.size = 0
+time taken 0 s 139482491 ns
+circles.size = 0
+time taken 0 s 137531040 ns
+circles.size = 0
+time taken 0 s 137848513 ns
+circles.size = 0
+time taken 0 s 135645479 ns
+circles.size = 0
+time taken 0 s 139382380 ns
+circles.size = 0
+time taken 1 s 3435917766 ns
+circles.size = 0
+time taken 0 s 140863640 ns
+circles.size = 0
+time taken 0 s 137213243 ns
+circles.size = 0
+time taken 0 s 141698540 ns
+circles.size = 0
+time taken 0 s 139434463 ns
+circles.size = 0
+time taken 0 s 148987996 ns
+circles.size = 0
+time taken 0 s 142922330 ns
+circles.size = 0
+time taken 1 s 3447800529 ns
+circles.size = 0
+time taken 0 s 141815267 ns
+circles.size = 0
+time taken 0 s 141598558 ns
+circles.size = 0
+time taken 0 s 143734830 ns
+circles.size = 0
+time taken 0 s 133746228 ns
+circles.size = 0
+time taken 0 s 139223143 ns
+circles.size = 0
+time taken 0 s 139426544 ns
+circles.size = 0
+time taken 1 s 3434021572 ns
+circles.size = 0
+time taken 0 s 139494570 ns
+circles.size = 0
+time taken 0 s 140268533 ns
+circles.size = 0
+time taken 0 s 140438293 ns
+circles.size = 0
+time taken 0 s 136076561 ns
+circles.size = 0
+time taken 0 s 134985284 ns
+circles.size = 0
+time taken 0 s 140513080 ns
+circles.size = 0
+time taken 1 s 3431428729 ns
+circles.size = 0
+time taken 0 s 136359185 ns
+circles.size = 0
+time taken 0 s 141278656 ns
+circles.size = 0
+time taken 0 s 140940879 ns
+circles.size = 0
+time taken 0 s 132843108 ns
+circles.size = 0
+time taken 0 s 134627975 ns
+circles.size = 0
+time taken 0 s 137552296 ns
+circles.size = 0
+time taken 1 s 3436070209 ns
+circles.size = 0
+time taken 0 s 144990792 ns
+circles.size = 0
+time taken 0 s 134162109 ns
+circles.size = 0
+time taken 0 s 134384067 ns
+circles.size = 0
+time taken 0 s 139654009 ns
+circles.size = 0
+time taken 0 s 134588815 ns
+circles.size = 0
+time taken 0 s 138606854 ns
+circles.size = 0
+time taken 1 s 3430651187 ns
+circles.size = 0
+time taken 0 s 135034210 ns
+circles.size = 0
+time taken 0 s 137967747 ns
+circles.size = 0
+time taken 0 s 136163155 ns
+circles.size = 0
+time taken 0 s 137223589 ns
+circles.size = 0
+time taken 0 s 232619023 ns
+circles.size = 0
+time taken 0 s 121842961 ns
+circles.size = 0
+time taken 1 s 3446632802 ns
+circles.size = 0
+time taken 0 s 143062682 ns
+circles.size = 0
+time taken 0 s 143566519 ns
+circles.size = 0
+time taken 0 s 148018751 ns
+circles.size = 0
+time taken 0 s 149114179 ns
+circles.size = 1
+time taken 0 s 153617499 ns
+circles.size = 1
+time taken 0 s 152467682 ns
+circles.size = 1
+time taken 1 s 3460415685 ns
+circles.size = 1
+time taken 0 s 154510318 ns
+circles.size = 1
+time taken 0 s 152079433 ns
+circles.size = 1
+time taken 0 s 154373941 ns
+circles.size = 1
+time taken 0 s 153410805 ns
+circles.size = 1
+time taken 0 s 149641915 ns
+circles.size = 1
+time taken 1 s 3449591566 ns
+circles.size = 1
+time taken 0 s 148189424 ns
+circles.size = 1
+time taken 0 s 149354760 ns
+circles.size = 1
+time taken 0 s 149180347 ns
+circles.size = 1
+time taken 0 s 151780691 ns
+circles.size = 1
+time taken 0 s 144921766 ns
+circles.size = 1
+time taken 0 s 148945667 ns
+circles.size = 1
+time taken 1 s 3440076990 ns
+circles.size = 1
+time taken 0 s 147904768 ns
+circles.size = 1
+time taken 0 s 142430409 ns
+circles.size = 1
+time taken 0 s 145969788 ns
+circles.size = 1
+time taken 0 s 153699605 ns
+circles.size = 1
+time taken 0 s 150495135 ns
+circles.size = 1
+time taken 0 s 147933830 ns
+circles.size = 1
+time taken 1 s 3451785897 ns
+circles.size = 1
+time taken 0 s 144498199 ns
+circles.size = 1
+time taken 0 s 146596064 ns
+circles.size = 1
+time taken 0 s 142870032 ns
+circles.size = 1
+time taken 0 s 136238797 ns
+time taken 146566374 ns 
+wcet with margin: 164154338 ns
+Pthread Policy is SCHED_FIFO
+PTHREAD SCOPE SYSTEM
+Frame #0
+start at 397474364
+deadline with margin set 561628702
+circles.size = 1
+stop at 533867388. Jitter 10173350
+Frame #1
+start at 561711267
+deadline with margin set 725865605
+circles.size = 1
+stop at 692688911. Jitter 15588730
+Frame #2
+start at 725975360
+deadline with margin set 890129698
+circles.size = 1
+stop at 852096094. Jitter 20445640
+Frame #3
+start at 890225233
+deadline with margin set 1054379571
+circles.size = 1
+stop at 1013904100. Jitter 22887507
+Frame #4
+start at 1054488180
+deadline with margin set 1218642518
+circles.size = 1
+stop at 1178249180. Jitter 22805374
+Frame #5
+start at 1218745906
+deadline with margin set 1382900244
+circles.size = 1
+stop at 1338618645. Jitter 26693635
+Frame #6
+start at 1383041802
+deadline with margin set 1547196140
+circles.size = 1
+stop at 1501279913. Jitter 28328263
+Frame #7
+start at 1547267694
+deadline with margin set 1711422032
+circles.size = 1
+stop at 1661935385. Jitter 31898683
+Frame #8
+start at 1711520671
+deadline with margin set 1875675009
+circles.size = 1
+stop at 1826806888. Jitter 31280157
+Frame #9
+start at 1875734844
+deadline with margin set 2039889182
+circles.size = 1
+stop at 1990728283. Jitter 31572935
+Frame #10
+start at 2040012302
+deadline with margin set 2204166640
+circles.size = 1
+stop at 2151348159. Jitter 35230517
+Frame #11
+start at 2204235964
+deadline with margin set 2368390302
+circles.size = 1
+stop at 2314304583. Jitter 36497755
+Frame #12
+start at 2368452513
+deadline with margin set 2532606851
+circles.size = 1
+stop at 2478583219. Jitter 36435668
+Frame #13
+start at 2532713075
+deadline with margin set 2696867413
+circles.size = 1
+stop at 2643422305. Jitter 35857144
+Frame #14
+start at 2696980982
+deadline with margin set 2861135320
+circles.size = 1
+stop at 2815154498. Jitter 28392858
+Frame #15
+start at 2861208052
+deadline with margin set 3025362390
+circles.size = 1
+stop at 2973246525. Jitter 34527901
+Frame #16
+start at 3025424133
+deadline with margin set 3189578471
+circles.size = 1
+stop at 3133192571. Jitter 38797936
+Frame #17
+start at 3189716030
+deadline with margin set 3353870368
+circles.size = 1
+stop at 3295904643. Jitter 40377761
+Frame #18
+start at 3353958917
+deadline with margin set 3518113255
+circles.size = 1
+stop at 3462327653. Jitter 38197638
+Frame #19
+start at 3518239254
+deadline with margin set 3682393592
+circles.size = 1
+stop at 3627537626. Jitter 37268002
+Frame #20
+start at 3682457661
+deadline with margin set 3846611999
+circles.size = 1
+stop at 3792208923. Jitter 36815112
+Frame #21
+start at 3846754301
+deadline with margin set 4010908639
+circles.size = 1
+stop at 3955216324. Jitter 38104351
+Frame #22
+start at 4011020263
+deadline with margin set 4175174601
+circles.size = 1
+stop at 4119822536. Jitter 37764101
+Frame #23
+start at 4175409252
+deadline with margin set 44596294
+circles.size = 1
+stop at 4283969048. Jitter 38006578
+Frame #24
+start at 44709568
+deadline with margin set 208863906
+circles.size = 1
+stop at 153015653. Jitter 38260289
+Frame #25
+start at 208984524
+deadline with margin set 373138862
+circles.size = 1
+stop at 318133885. Jitter 37417013
+Frame #26
+start at 373225781
+deadline with margin set 537380119
+circles.size = 1
+stop at 478791194. Jitter 41000961
+Frame #27
+start at 537482403
+deadline with margin set 701636741
+circles.size = 1
+stop at 641868219. Jitter 42180558
+Frame #28
+start at 701741005
+deadline with margin set 865895343
+circles.size = 1
+stop at 807518299. Jitter 40789080
+Frame #29
+start at 866004418
+deadline with margin set 1030158756
+circles.size = 1
+stop at 971891319. Jitter 40679473
+Frame #30
+start at 1030222690
+deadline with margin set 1194377028
+circles.size = 1
+MISSED DEADLINE
+Frame #31
+start at 1194501748
+deadline with margin set 1358656086
+stop at 1265336396. Jitter 75731726
+circles.size = 1
+stop at 1331368130. Jitter 9699992
+Frame #32
+start at 1358760439
+deadline with margin set 1522914777
+circles.size = 1
+stop at 1500583807. Jitter 4743006
+Frame #33
+start at 1522984024
+deadline with margin set 1687138362
+circles.size = 1
+stop at 1650158218. Jitter 19392180
+Frame #34
+start at 1687197297
+deadline with margin set 1851351635
+circles.size = 1
+stop at 1808295949. Jitter 25467722
+Frame #35
+start at 1851429204
+deadline with margin set 2015583542
+circles.size = 1
+stop at 1973329200. Jitter 24666378
+Frame #36
+start at 2015681997
+deadline with margin set 2179836335
+circles.size = 1
+stop at 2136250881. Jitter 25997490
+Frame #37
+start at 2179961198
+deadline with margin set 2344115536
+circles.size = 1
+stop at 2298346218. Jitter 28181354
+Frame #38
+start at 2344244774
+deadline with margin set 2508399112
+circles.size = 1
+stop at 2459984342. Jitter 30826806
+Frame #39
+start at 2508475743
+deadline with margin set 2672630081
+circles.size = 1
+stop at 2623504806. Jitter 31537311
+Frame #40
+start at 2672692285
+deadline with margin set 2836846623
+circles.size = 1
+stop at 2785198610. Jitter 34060049
+Frame #41
+start at 2837166972
+deadline with margin set 3001321310
+circles.size = 1
+stop at 2948907327. Jitter 34826019
+Frame #42
+start at 3001400118
+deadline with margin set 3165554456
+circles.size = 1
+stop at 3115491375. Jitter 32475117
+Frame #43
+start at 3165652068
+deadline with margin set 3329806406
+circles.size = 1
+stop at 3280038027. Jitter 32180415
+Frame #44
+start at 3330041576
+deadline with margin set 3494195914
+circles.size = 1
+stop at 3445264140. Jitter 31343810
+Frame #45
+start at 3494305192
+deadline with margin set 3658459530
+circles.size = 1
+stop at 3611079086. Jitter 29792480
+Frame #46
+start at 3658523286
+deadline with margin set 3822677624
+circles.size = 1
+stop at 3776904866. Jitter 28184794
+Frame #47
+start at 3822770782
+deadline with margin set 3986925120
+circles.size = 1
+stop at 3941924693. Jitter 27412463
+Frame #48
+start at 3987038401
+deadline with margin set 4151192739
+circles.size = 1
+stop at 4107856300. Jitter 25748475
+Frame #49
+start at 4151310863
+deadline with margin set 20497905
+circles.size = 1
+stop at 4272698843. Jitter 25178394
+Frame #50
+start at 20599882
+deadline with margin set 184754220
+circles.size = 1
+stop at 141268868. Jitter 25897388
+Frame #51
+start at 184874532
+deadline with margin set 349028870
+circles.size = 1
+stop at 305408146. Jitter 26032760
+Frame #52
+start at 349140587
+deadline with margin set 513294925
+circles.size = 1
+stop at 468632067. Jitter 27074894
+Frame #53
+start at 513489714
+deadline with margin set 677644052
+circles.size = 1
+stop at 633103073. Jitter 26953015
+Frame #54
+start at 677757689
+deadline with margin set 841912027
+circles.size = 1
+stop at 798052749. Jitter 26271314
+Frame #55
+start at 841997538
+deadline with margin set 1006151876
+circles.size = 1
+stop at 958400482. Jitter 30163430
+Frame #56
+start at 1006254680
+deadline with margin set 1170409018
+circles.size = 1
+stop at 1121564393. Jitter 31256661
+Frame #57
+start at 1170499946
+deadline with margin set 1334654284
+circles.size = 1
+stop at 1285827108. Jitter 31239212
+Frame #58
+start at 1334755733
+deadline with margin set 1498910071
+circles.size = 1
+stop at 1450206599. Jitter 31115508
+Frame #59
+start at 1499033918
+deadline with margin set 1663188256
+circles.size = 1
+stop at 1616969815. Jitter 28630477
+Frame #60
+start at 1663304296
+deadline with margin set 1827458634
+circles.size = 1
+stop at 1781454983. Jitter 28415687
+Frame #61
+start at 1827551692
+deadline with margin set 1991706030
+circles.size = 1
+stop at 1948848256. Jitter 25269810
+Frame #62
+start at 1991804036
+deadline with margin set 2155958374
+circles.size = 1
+stop at 2111574851. Jitter 26795559
+Frame #63
+start at 2156059453
+deadline with margin set 2320213791
+circles.size = 1
+stop at 2274646515. Jitter 27979312
+Frame #64
+start at 2320508056
+deadline with margin set 2484662394
+circles.size = 1
+stop at 2439633008. Jitter 27441422
+Frame #65
+start at 2484737327
+deadline with margin set 2648891665
+circles.size = 1
+stop at 2603586517. Jitter 27717184
+Frame #66
+start at 2648970999
+deadline with margin set 2813125337
+circles.size = 1
+stop at 2768033710. Jitter 27503663
+Frame #67
+start at 2813200005
+deadline with margin set 2977354343
+circles.size = 1
+stop at 2929004233. Jitter 30762146
+Frame #68
+start at 2977459168
+deadline with margin set 3141613506
+circles.size = 1
+stop at 3097231131. Jitter 26794411
+Frame #69
+start at 3141730728
+deadline with margin set 3305885066
+circles.size = 1
+stop at 3265400630. Jitter 22896472
+Frame #70
+start at 3305987964
+deadline with margin set 3470142302
+circles.size = 1
+stop at 3424655032. Jitter 27899306
+Frame #71
+start at 3470245148
+deadline with margin set 3634399486
+circles.size = 1
+stop at 3586018286. Jitter 30793236
+Frame #72
+start at 3634585977
+deadline with margin set 3798740315
+circles.size = 1
+stop at 3749436681. Jitter 31715670
+Frame #73
+start at 3798820241
+deadline with margin set 3962974579
+circles.size = 1
+stop at 3914424833. Jitter 30961782
+Frame #74
+start at 3963032160
+deadline with margin set 4127186498
+circles.size = 1
+stop at 4078434556. Jitter 31163978
+Frame #75
+start at 4127270071
+deadline with margin set 4291424409
+circles.size = 1
+stop at 4244806832. Jitter 29029613
+Frame #76
+start at 4291518658
+deadline with margin set 160705700
+circles.size = 1
+stop at 115607306. Jitter 27510430
+Frame #77
+start at 160829431
+deadline with margin set 324983769
+circles.size = 1
+stop at 279256930. Jitter 28138875
+Frame #78
+start at 325095273
+deadline with margin set 489249611
+circles.size = 1
+stop at 444287790. Jitter 27373857
+Frame #79
+start at 489355632
+deadline with margin set 653509970
+circles.size = 1
+stop at 607838118. Jitter 28083888
+Frame #80
+start at 653634064
+deadline with margin set 817788402
+circles.size = 1
+stop at 771806849. Jitter 28393589
+Frame #81
+start at 817848431
+deadline with margin set 982002769
+circles.size = 1
+stop at 937111315. Jitter 27303490
+Frame #82
+start at 982094830
+deadline with margin set 1146249168
+circles.size = 1
+stop at 1101013429. Jitter 27647775
+Frame #83
+start at 1146374513
+deadline with margin set 1310528851
+circles.size = 1
+stop at 1265522587. Jitter 27418300
+Frame #84
+start at 1310645530
+deadline with margin set 1474799868
+circles.size = 1
+stop at 1429844460. Jitter 27367444
+Frame #85
+start at 1474923859
+deadline with margin set 1639078197
+circles.size = 1
+stop at 1593441770. Jitter 28048463
+Frame #86
+start at 1639176354
+deadline with margin set 1803330692
+circles.size = 1
+stop at 1757043925. Jitter 28698803
+Frame #87
+start at 1803406556
+deadline with margin set 1967560894
+circles.size = 1
+stop at 1931186784. Jitter 18786146
+Frame #88
+start at 1967647123
+deadline with margin set 2131801461
+circles.size = 1
+stop at 2089679817. Jitter 24533680
+Frame #89
+start at 2131939827
+deadline with margin set 2296094165
+circles.size = 1
+stop at 2252329384. Jitter 26176817
+Frame #90
+start at 2296204355
+deadline with margin set 2460358693
+circles.size = 1
+stop at 2415093018. Jitter 27677711
+Frame #91
+start at 2460443205
+deadline with margin set 2624597543
+circles.size = 1
+stop at 2579590681. Jitter 27418898
+Frame #92
+start at 2624667212
+deadline with margin set 2788821550
+circles.size = 1
+stop at 2743065803. Jitter 28167783
+Frame #93
+start at 2789058048
+deadline with margin set 2953212386
+circles.size = 1
+stop at 2907819414. Jitter 27805008
+Frame #94
+start at 2953312629
+deadline with margin set 3117466967
+circles.size = 1
+MISSED DEADLINE
+Frame #95
+start at 3117576741
+deadline with margin set 3281731079
+MISSED DEADLINE
+Frame #96
+start at 3281786131
+deadline with margin set 3445940469
+stop at 3321335199. Jitter 107017306
+circles.size = 1
+Frame #97
+start at 3446014934
+deadline with margin set 3610169272
+stop at 3472288007. Jitter 120293301
+circles.size = 1
+stop at 3579504653. Jitter 13076655
+Frame #98
+start at 3610251028
+deadline with margin set 3774405366
+circles.size = 1
+stop at 3719511662. Jitter 37305740
+Frame #99
+start at 3774450819
+deadline with margin set 3938605157
+circles.size = 1
+stop at 3893417463. Jitter 27599730
+Frame #100
+start at 3938701289
+deadline with margin set 4102855627
+circles.size = 1
+stop at 4047768113. Jitter 37499550
+Frame #101
+start at 4103028533
+deadline with margin set 4267182871
+circles.size = 1
+stop at 4242273654. Jitter 7321253
+Frame #102
+start at 4267242686
+deadline with margin set 136429728
+circles.size = 1
+stop at 73152130. Jitter 45689634
+Frame #103
+start at 136526752
+deadline with margin set 300681090
+circles.size = 1
+stop at 222070662. Jitter 61022464
+Frame #104
+start at 300714985
+deadline with margin set 464869323
+circles.size = 1
+stop at 393353336. Jitter 53928023
+circles.size = 1
+Frame #105
+start at 464933221
+deadline with margin set 629087559
+stop at 592194619. Jitter 19304976
+circles.size = 1
+Frame #106
+start at 629293544
+deadline with margin set 793447882
+stop at 738241271. Jitter 37618647
+circles.size = 1
+stop at 773715655. Jitter 2144263
+Frame #107
+start at 793556000
+deadline with margin set 957710338
+circles.size = 1
+stop at 919133427. Jitter 20988947
+Frame #108
+start at 957826898
+deadline with margin set 1121981236
+circles.size = 1
+stop at 1078974372. Jitter 25418900
+Frame #109
+start at 1122080142
+deadline with margin set 1286234480
+circles.size = 1
+stop at 1241761103. Jitter 26885413
+Frame #110
+start at 1286325468
+deadline with margin set 1450479806
+circles.size = 1
+stop at 1406210917. Jitter 26680925
+Frame #111
+start at 1450622204
+deadline with margin set 1614776542
+circles.size = 1
+stop at 1568518880. Jitter 28669698
+Frame #112
+start at 1614859197
+deadline with margin set 1779013535
+circles.size = 1
+stop at 1734243532. Jitter 27182039
+Frame #113
+start at 1779114732
+deadline with margin set 1943269070
+circles.size = 1
+stop at 1896612852. Jitter 29068254
+Frame #114
+start at 1943345914
+deadline with margin set 2107500252
+circles.size = 1
+stop at 2059381703. Jitter 30530585
+Frame #115
+start at 2107597032
+deadline with margin set 2271751370
+circles.size = 1
+stop at 2225500492. Jitter 28662914
+Frame #116
+start at 2271863358
+deadline with margin set 2436017696
+circles.size = 1
+stop at 2390267982. Jitter 28161750
+Frame #117
+start at 2436106506
+deadline with margin set 2600260844
+circles.size = 1
+stop at 2552606479. Jitter 30066401
+Frame #118
+start at 2600508254
+deadline with margin set 2764662592
+circles.size = 1
+stop at 2718058629. Jitter 29015999
+Frame #119
+start at 2764765882
+deadline with margin set 2928920220
+circles.size = 1
+stop at 2882833255. Jitter 28499001
+Frame #120
+start at 2929031675
+deadline with margin set 3093186013
+circles.size = 1
+stop at 3047430480. Jitter 28167569
+Frame #121
+start at 3093251969
+deadline with margin set 3257406307
+circles.size = 1
+stop at 3211677805. Jitter 28140538
+Frame #122
+start at 3257520805
+deadline with margin set 3421675143
+circles.size = 1
+stop at 3375925287. Jitter 28161892
+Frame #123
+start at 3421804018
+deadline with margin set 3585958356
+circles.size = 1
+stop at 3540411319. Jitter 27959073
+Frame #124
+start at 3586077751
+deadline with margin set 3750232089
+circles.size = 1
+stop at 3705211633. Jitter 27432492
+Frame #125
+start at 3750302367
+deadline with margin set 3914456705
+circles.size = 1
+stop at 3870338260. Jitter 26530481
+Frame #126
+start at 3914576413
+deadline with margin set 4078730751
+circles.size = 1
+stop at 4033101074. Jitter 28041713
+Frame #127
+start at 4078839850
+deadline with margin set 4242994188
+circles.size = 1
+stop at 4194986458. Jitter 30419766
+Frame #128
+start at 4243099948
+deadline with margin set 112286990
+circles.size = 1
+stop at 65145383. Jitter 29553643
+Frame #129
+start at 112367698
+deadline with margin set 276522036
+circles.size = 1
+stop at 230627190. Jitter 28306882
+Frame #130
+start at 276598212
+deadline with margin set 440752550
+circles.size = 1
+stop at 394026843. Jitter 29137743
+Frame #131
+start at 440853675
+deadline with margin set 605008013
+circles.size = 1
+stop at 559340935. Jitter 28079114
+Frame #132
+start at 605103617
+deadline with margin set 769257955
+circles.size = 1
+stop at 722869329. Jitter 28800662
+Frame #133
+start at 769344428
+deadline with margin set 933498766
+circles.size = 1
+stop at 886322228. Jitter 29588574
+Frame #134
+start at 933757358
+deadline with margin set 1097911696
+circles.size = 1
+stop at 1051407419. Jitter 28916313
+Frame #135
+start at 1097980698
+deadline with margin set 1262135036
+circles.size = 1
+stop at 1215653989. Jitter 28893083
+Frame #136
+start at 1262252582
+deadline with margin set 1426406920
+circles.size = 1
+stop at 1381026429. Jitter 27792527
+Frame #137
+start at 1426501287
+deadline with margin set 1590655625
+circles.size = 1
+stop at 1543944414. Jitter 29123247
+Frame #138
+start at 1590764785
+deadline with margin set 1754919123
+circles.size = 1
+stop at 1709080809. Jitter 28250350
+Frame #139
+start at 1755050056
+deadline with margin set 1919204394
+circles.size = 1
+stop at 1873090564. Jitter 28525866
+Frame #140
+start at 1919312631
+deadline with margin set 2083466969
+circles.size = 1
+stop at 2037795236. Jitter 28083769
+Frame #141
+start at 2083542081
+deadline with margin set 2247696419
+circles.size = 1
+stop at 2202102969. Jitter 28005486
+Frame #142
+start at 2247915858
+deadline with margin set 2412070196
+circles.size = 1
+stop at 2372832726. Jitter 21649506
+Frame #143
+start at 2412240831
+deadline with margin set 2576395169
+circles.size = 1
+stop at 2532600994. Jitter 26206211
+Frame #144
+start at 2576466582
+deadline with margin set 2740620920
+circles.size = 1
+stop at 2695737356. Jitter 27295600
+Frame #145
+start at 2740759543
+deadline with margin set 2904913881
+circles.size = 1
+stop at 2859207216. Jitter 28118701
+Frame #146
+start at 2904971091
+deadline with margin set 3069125429
+circles.size = 1
+stop at 3023561894. Jitter 27975571
+Frame #147
+start at 3069206756
+deadline with margin set 3233361094
+circles.size = 1
+stop at 3188631021. Jitter 27142109
+Frame #148
+start at 3233440545
+deadline with margin set 3397594883
+circles.size = 1
+stop at 3352862102. Jitter 27144817
+Frame #149
+start at 3397704751
+deadline with margin set 3561859089
+circles.size = 1
+stop at 3516277272. Jitter 27993853
+Frame #150
+start at 3561947968
+deadline with margin set 3726102306
+circles.size = 1
+stop at 3680884184. Jitter 27630158
+Frame #151
+start at 3726180336
+deadline with margin set 3890334674
+circles.size = 1
+stop at 3846669702. Jitter 26077008
+Frame #152
+start at 3890394611
+deadline with margin set 4054548949
+circles.size = 1
+stop at 4009866865. Jitter 27094120
+Frame #153
+start at 4054617324
+deadline with margin set 4218771662
+circles.size = 1
+stop at 4172717038. Jitter 28466660
+Frame #154
+start at 4218903060
+deadline with margin set 88090102
+circles.size = 1
+stop at 42313976. Jitter 28188162
+Frame #155
+start at 88150613
+deadline with margin set 252304951
+circles.size = 1
+stop at 206080113. Jitter 28636874
+Frame #156
+start at 252414264
+deadline with margin set 416568602
+circles.size = 1
+stop at 370588672. Jitter 28391966
+Frame #157
+start at 416632345
+deadline with margin set 580786683
+circles.size = 1
+stop at 534830781. Jitter 28367938
+Frame #158
+start at 580918986
+deadline with margin set 745073324
+circles.size = 1
+MISSED DEADLINE
+Frame #159
+start at 745154063
+deadline with margin set 909308401
+stop at 846612971. Jitter 45107466
+circles.size = 1
+stop at 890594556. Jitter 1125881
+Frame #160
+start at 909361691
+deadline with margin set 1073516029
+circles.size = 1
+stop at 1046749721. Jitter 9178344
+Frame #161
+start at 1073921204
+deadline with margin set 1238075542
+circles.size = 1
+stop at 1199064676. Jitter 21422902
+Frame #162
+start at 1238167531
+deadline with margin set 1402321869
+circles.size = 1
+stop at 1359479039. Jitter 25254866
+Frame #163
+start at 1402397524
+deadline with margin set 1566551862
+circles.size = 1
+stop at 1523460224. Jitter 25503674
+Frame #164
+start at 1566695957
+deadline with margin set 1730850295
+circles.size = 1
+stop at 1684365129. Jitter 28897202
+Frame #165
+start at 1730920534
+deadline with margin set 1895074872
+circles.size = 1
+stop at 1849810207. Jitter 27676701
+Frame #166
+start at 1895190633
+deadline with margin set 2059344971
+circles.size = 1
+stop at 2012399585. Jitter 29357422
+Frame #167
+start at 2059434273
+deadline with margin set 2223588611
+circles.size = 1
+stop at 2176589056. Jitter 29411591
+Frame #168
+start at 2223685517
+deadline with margin set 2387839855
+circles.size = 1
+stop at 2341123888. Jitter 29128003
+Frame #169
+start at 2387957685
+deadline with margin set 2552112023
+circles.size = 1
+stop at 2505339164. Jitter 29184895
+Frame #170
+start at 2552197806
+deadline with margin set 2716352144
+circles.size = 1
+stop at 2670345815. Jitter 28418365
+Frame #171
+start at 2716443343
+deadline with margin set 2880597681
+circles.size = 1
+stop at 2831998318. Jitter 31011399
+Frame #172
+start at 2880721434
+deadline with margin set 3044875772
+circles.size = 1
+stop at 2998216874. Jitter 29070934
+Frame #173
+start at 3044970461
+deadline with margin set 3209124799
+circles.size = 1
+stop at 3163363008. Jitter 28173827
+Frame #174
+start at 3209214592
+deadline with margin set 3373368930
+circles.size = 1
+stop at 3325389739. Jitter 30391227
+Frame #175
+start at 3373472580
+deadline with margin set 3537626918
+circles.size = 1
+stop at 3491612540. Jitter 28426414
+Frame #176
+start at 3537789810
+deadline with margin set 3701944148
+circles.size = 1
+stop at 3655274910. Jitter 29081274
+Frame #177
+start at 3702033705
+deadline with margin set 3866188043
+circles.size = 1
+stop at 3820154185. Jitter 28445894
+Frame #178
+start at 3866296038
+deadline with margin set 4030450376
+circles.size = 1
+stop at 3987583730. Jitter 25278682
+Frame #179
+start at 4030596653
+deadline with margin set 4194750991
+circles.size = 1
+stop at 4154120650. Jitter 23042377
+Frame #180
+start at 4194815547
+deadline with margin set 64002589
+circles.size = 1
+stop at 20830832. Jitter 25583793
+Frame #181
+start at 64115290
+deadline with margin set 228269628
+circles.size = 1
+stop at 182697889. Jitter 27983775
+Frame #182
+start at 228406294
+deadline with margin set 392560632
+circles.size = 1
+stop at 346656750. Jitter 28315918
+Frame #183
+start at 392652402
+deadline with margin set 556806740
+circles.size = 1
+stop at 511233647. Jitter 27985129
+Frame #184
+start at 556921063
+deadline with margin set 721075401
+circles.size = 1
+stop at 674698383. Jitter 28789054
+Frame #185
+start at 721160504
+deadline with margin set 885314842
+circles.size = 1
+stop at 839561797. Jitter 28165081
+Frame #186
+start at 885430414
+deadline with margin set 1049584752
+circles.size = 1
+stop at 1003609202. Jitter 28387586
+Frame #187
+start at 1049712183
+deadline with margin set 1213866521
+circles.size = 1
+stop at 1167756826. Jitter 28521731
+Frame #188
+start at 1214083008
+deadline with margin set 1378237346
+circles.size = 1
+stop at 1333010327. Jitter 27639055
+Frame #189
+start at 1378342893
+deadline with margin set 1542497231
+circles.size = 1
+stop at 1496721971. Jitter 28187296
+Frame #190
+start at 1542589600
+deadline with margin set 1706743938
+circles.size = 1
+stop at 1661714737. Jitter 27441237
+Frame #191
+start at 1706825266
+deadline with margin set 1870979604
+circles.size = 1
+stop at 1827095115. Jitter 26296525
+Frame #192
+start at 1871089474
+deadline with margin set 2035243812
+circles.size = 1
+stop at 1989308393. Jitter 28347455
+Frame #193
+start at 2035459048
+deadline with margin set 2199613386
+circles.size = 1
+stop at 2152631929. Jitter 29393493
+Frame #194
+start at 2199702919
+deadline with margin set 2363857257
+circles.size = 1
+stop at 2317636858. Jitter 28632435
+Frame #195
+start at 2363955072
+deadline with margin set 2528109410
+circles.size = 1
+stop at 2482152766. Jitter 28368680
+Frame #196
+start at 2528231444
+deadline with margin set 2692385782
+circles.size = 1
+stop at 2646768729. Jitter 28029089
+Frame #197
+start at 2692482555
+deadline with margin set 2856636893
+circles.size = 1
+stop at 2811647562. Jitter 27401367
+Frame #198
+start at 2856713197
+deadline with margin set 3020867535
+circles.size = 1
+stop at 2974908496. Jitter 28371075
+Frame #199
+start at 3020952068
+deadline with margin set 3185106406
+circles.size = 1
+stop at 3137784673. Jitter 29733769
+Frame #200
+start at 3185210307
+deadline with margin set 3349364645
+circles.size = 1
+stop at 3303720327. Jitter 28056354
+Frame #201
+start at 3349456499
+deadline with margin set 3513610837
+circles.size = 1
+stop at 3468848100. Jitter 27174773
+Frame #202
+start at 3513777798
+deadline with margin set 3677932136
+circles.size = 1
+stop at 3634368641. Jitter 25975531
+Frame #203
+start at 3678006699
+deadline with margin set 3842161037
+circles.size = 1
+stop at 3797669138. Jitter 26903935
+Frame #204
+start at 3842232735
+deadline with margin set 4006387073
+circles.size = 1
+stop at 3961252713. Jitter 27546396
+Frame #205
+start at 4006452260
+deadline with margin set 4170606598
+circles.size = 1
+stop at 4123503926. Jitter 29514708
+Frame #206
+start at 4170726744
+deadline with margin set 39913786
+circles.size = 1
+stop at 4287023521. Jitter 30269597
+Frame #207
+start at 39981869
+deadline with margin set 204136207
+circles.size = 1
+stop at 157985866. Jitter 28562377
+Frame #208
+start at 204286896
+deadline with margin set 368441234
+circles.size = 1
+stop at 322263757. Jitter 28589513
+Frame #209
+start at 368520203
+deadline with margin set 532674541
+circles.size = 1
+stop at 485447045. Jitter 29639532
+Frame #210
+start at 532836585
+deadline with margin set 696990923
+MISSED DEADLINE
+Frame #211
+start at 697437086
+deadline with margin set 861591424
+circles.size = 1
+stop at 841208752. Jitter 2794708
+Frame #212
+start at 861683960
+deadline with margin set 1025838298
+circles.size = 1
+MISSED DEADLINE
+Frame #213
+start at 1025892090
+deadline with margin set 1190046428
+stop at 1151946313. Jitter 20512151
+Frame #214
+start at 1190092669
+deadline with margin set 1354247007
+circles.size = 1
+MISSED DEADLINE
+Frame #215
+start at 1354400906
+deadline with margin set 1518555244
+stop at 1387399930. Jitter 113567350
+circles.size = 1
+Frame #216
+start at 1518643308
+deadline with margin set 1682797646
+stop at 1621815248. Jitter 43394434
+Frame #217
+start at 1682960972
+deadline with margin set 1847115310
+circles.size = 1
+MISSED DEADLINE
+Frame #218
+start at 1847179456
+deadline with margin set 2011333794
+stop at 1914978924. Jitter 78766906
+Frame #219
+start at 2011425382
+deadline with margin set 2175579720
+circles.size = 1
+MISSED DEADLINE
+Frame #220
+start at 2175668964
+deadline with margin set 2339823302
+stop at 2210639705. Jitter 111595633
+circles.size = 1
+Frame #221
+start at 2339888535
+deadline with margin set 2504042873
+MISSED DEADLINE
+Frame #222
+start at 2504203993
+deadline with margin set 2668358331
+stop at 2560240920. Jitter 90529447
+circles.size = 1
+Frame #223
+start at 2668447315
+deadline with margin set 2832601653
+stop at 2739827779. Jitter 75185910
+Frame #224
+start at 2832683714
+deadline with margin set 2996838052
+circles.size = 1
+MISSED DEADLINE
+Frame #225
+start at 2996961498
+deadline with margin set 3161115836
+stop at 3027059470. Jitter 116468402
+circles.size = 1
+Frame #226
+start at 3161227356
+deadline with margin set 3325381694
+MISSED DEADLINE
+Frame #227
+start at 3325598006
+deadline with margin set 3489752344
+stop at 3356458802. Jitter 115705578
+circles.size = 1
+Frame #228
+start at 3489864905
+deadline with margin set 3654019243
+stop at 3536758661. Jitter 99672618
+circles.size = 1
+Frame #229
+start at 3654106803
+deadline with margin set 3818261141
+MISSED DEADLINE
+Frame #230
+start at 3818362108
+deadline with margin set 3982516446
+stop at 3851827650. Jitter 113100832
+circles.size = 1
+Frame #231
+start at 3982577532
+deadline with margin set 4146731870
+MISSED DEADLINE
+Frame #232
+start at 4146816550
+deadline with margin set 16003592
+stop at 4168188738. Jitter 125194186
+circles.size = 1
+stop at 10396627. Jitter -11980999
+Frame #233
+start at 16062335
+deadline with margin set 180216673
+circles.size = 1
+stop at 163291260. Jitter -662551
+Frame #234
+start at 180256404
+deadline with margin set 344410742
+circles.size = 1
+stop at 290415048. Jitter 36407730
+Frame #235
+start at 344459016
+deadline with margin set 508613354
+circles.size = 1
+stop at 482914023. Jitter 8111367
+Frame #236
+start at 508660987
+deadline with margin set 672815325
+circles.size = 1
+stop at 599926968. Jitter 55300393
+Frame #237
+start at 672869574
+deadline with margin set 837023912
+circles.size = 1
+circles.size = 1
+MISSED DEADLINE
+Frame #238
+start at 837113578
+deadline with margin set 1001267916
+stop at 849361974. Jitter 134317978
+stop at 910811039. Jitter 72868913
+circles.size = 1
+Frame #239
+start at 1001370135
+deadline with margin set 1165524473
+stop at 1053540011. Jitter 94396498
+circles.size = 1
+Frame #240
+start at 1165566586
+deadline with margin set 1329720924
+stop at 1209803386. Jitter 102329574
+circles.size = 1
+Frame #241
+start at 1329788975
+deadline with margin set 1493943313
+stop at 1396811241. Jitter 79544108
+circles.size = 1
+Frame #242
+start at 1494024543
+deadline with margin set 1658178881
+stop at 1558165922. Jitter 82424995
+circles.size = 1
+Frame #243
+start at 1658276034
+deadline with margin set 1822430372
+stop at 1719465032. Jitter 85377376
+circles.size = 1
+Frame #244
+start at 1822531223
+deadline with margin set 1986685561
+stop at 1838200535. Jitter 130897062
+circles.size = 1
+Frame #245
+start at 1986776517
+deadline with margin set 2150930855
+stop at 2008222932. Jitter 125119959
+circles.size = 1
+Frame #246
+start at 2152090209
+deadline with margin set 2316244547
+stop at 2201739062. Jitter 96917521
+circles.size = 1
+Frame #247
+start at 2316339773
+deadline with margin set 2480494111
+stop at 2310093497. Jitter -11436914
+circles.size = 1
+MISSED DEADLINE
+Frame #248
+start at 2480570967
+deadline with margin set 2644725305
+stop at 2510859806. Jitter 116277535
+circles.size = 1
+Frame #249
+start at 2644795675
+deadline with margin set 2808950013
+stop at 2658040099. Jitter 133321950
+circles.size = 1
+stop at 2750203820. Jitter 41158229
+Frame #250
+start at 2809018822
+deadline with margin set 2973173160
+circles.size = 1
+stop at 2943425582. Jitter 12159614
+Frame #251
+start at 2973276187
+deadline with margin set 3137430525
+circles.size = 1
+stop at 3092918037. Jitter 26924524
+Frame #252
+start at 3137474593
+deadline with margin set 3301628931
+circles.size = 1
+stop at 3257262852. Jitter 26778115
+circles.size = 1
+Frame #253
+start at 3301711854
+deadline with margin set 3465866192
+stop at 3404762628. Jitter 43515600
+circles.size = 1
+Frame #254
+start at 3465937062
+deadline with margin set 3630091400
+stop at 3542874747. Jitter 69628689
+circles.size = 1
+Frame #255
+start at 3630178844
+deadline with margin set 3794333182
+stop at 3657609601. Jitter 119135617
+circles.size = 1
+Frame #256
+start at 3794424220
+deadline with margin set 3958578558
+stop at 3848872606. Jitter 92117988
+circles.size = 1
+Frame #257
+start at 3958665533
+deadline with margin set 4122819871
+stop at 3976188374. Jitter 129043533
+circles.size = 1
+Frame #258
+start at 4124864679
+deadline with margin set 4289019017
+stop at 4119857804. Jitter -14625897
+circles.size = 1
+MISSED DEADLINE
+Frame #259
+start at 4289199119
+deadline with margin set 158386161
+circles.size = 1
+stop at 50882992. Jitter 89915205
+stop at 124835178. Jitter 15963019
+Frame #260
+start at 158471043
+deadline with margin set 322625381
+circles.size = 1
+stop at 312949182. Jitter -7911765
+Frame #261
+start at 322736046
+deadline with margin set 486890384
+circles.size = 1
+stop at 423498360. Jitter 45804060
+Frame #262
+start at 486966673
+deadline with margin set 651121011
+circles.size = 1
+stop at 626700921. Jitter 6832126
+Frame #263
+start at 651166050
+deadline with margin set 815320388
+circles.size = 1
+stop at 744531940. Jitter 53200484
+circles.size = 1
+Frame #264
+start at 815434490
+deadline with margin set 979588828
+stop at 890302078. Jitter 71698786
+circles.size = 1
+Frame #265
+start at 979625065
+deadline with margin set 1143779403
+stop at 1029509759. Jitter 96681680
+circles.size = 1
+Frame #266
+start at 1143896890
+deadline with margin set 1308051228
+stop at 1219367487. Jitter 71095777
+circles.size = 1
+Frame #267
+start at 1308116057
+deadline with margin set 1472270395
+stop at 1349284273. Jitter 105398158
+circles.size = 1
+Frame #268
+start at 1472371729
+deadline with margin set 1636526067
+stop at 1536678892. Jitter 82259211
+circles.size = 1
+Frame #269
+start at 1636627869
+deadline with margin set 1800782207
+stop at 1688570604. Jitter 94623639
+circles.size = 1
+Frame #270
+start at 1800873281
+deadline with margin set 1965027619
+stop at 1850726206. Jitter 96713449
+circles.size = 1
+Frame #271
+start at 1965105151
+deadline with margin set 2129259489
+stop at 1983792081. Jitter 127879444
+circles.size = 1
+Frame #272
+start at 2129458063
+deadline with margin set 2293612401
+stop at 2152289817. Jitter 123734620
+circles.size = 1
+Frame #273
+start at 2293740727
+deadline with margin set 2457895065
+stop at 2344234754. Jitter 96072347
+circles.size = 1
+Frame #274
+start at 2459739896
+deadline with margin set 2623894234
+stop at 2500772288. Jitter 105533982
+circles.size = 1
+Frame #275
+start at 2624047801
+deadline with margin set 2788202139
+stop at 2658377123. Jitter 112237052
+circles.size = 1
+stop at 2775025502. Jitter -4411327
+Frame #276
+start at 2788308050
+deadline with margin set 2952462388
+circles.size = 1
+MISSED DEADLINE
+Frame #277
+start at 2952538559
+deadline with margin set 3116692897
+stop at 2972893348. Jitter 126211585
+circles.size = 1
+stop at 3090282202. Jitter 8822731
+Frame #278
+start at 3116757454
+deadline with margin set 3280911792
+circles.size = 1
+stop at 3245155671. Jitter 18168157
+Frame #279
+start at 3280987781
+deadline with margin set 3445142119
+circles.size = 1
+stop at 3393312320. Jitter 34241835
+Frame #280
+start at 3445182817
+deadline with margin set 3609337155
+circles.size = 1
+stop at 3587765835. Jitter 3983356
+Frame #281
+start at 3609382643
+deadline with margin set 3773536981
+circles.size = 1
+stop at 3742594090. Jitter 13354927
+circles.size = 1
+Frame #282
+start at 3773595752
+deadline with margin set 3937750090
+Frame #283
+start at 3937817141
+deadline with margin set 4101971479
+circles.size = 1
+stop at 3901353829. Jitter 18808297
+MISSED DEADLINE
+Frame #284
+start at 4102061552
+deadline with margin set 4266215890
+stop at 4178190772. Jitter 70437154
+circles.size = 1
+Frame #285
+start at 4266302462
+deadline with margin set 135489504
+stop at 81054685. Jitter 36846855
+Frame #286
+start at 135543948
+deadline with margin set 299698286
+circles.size = 1
+MISSED DEADLINE
+Frame #287
+start at 299779396
+deadline with margin set 463933734
+stop at 384154555. Jitter 62191215
+Frame #288
+start at 464047813
+deadline with margin set 628202151
+circles.size = 1
+MISSED DEADLINE
+Frame #289
+start at 628287220
+deadline with margin set 792441558
+stop at 703002064. Jitter 71851530
+circles.size = 1
+Frame #290
+start at 792565377
+deadline with margin set 956719715
+MISSED DEADLINE
+Frame #291
+start at 956799893
+deadline with margin set 1120954231
+circles.size = 1
+stop at 1025128750. Jitter 78237517
+Frame #292
+start at 1121040338
+deadline with margin set 1285194676
+stop at 1213488630. Jitter 54118082
+circles.size = 1
+Frame #293
+start at 1285265367
+deadline with margin set 1449419705
+MISSED DEADLINE
+Frame #294
+start at 1449549615
+deadline with margin set 1613703953
+stop at 1495832017. Jitter 100283972
+circles.size = 1
+Frame #295
+start at 1613804905
+deadline with margin set 1777959243
+MISSED DEADLINE
+Frame #296
+start at 1778054570
+deadline with margin set 1942208908
+circles.size = 1
+stop at 1828622928. Jitter 95998016
+Frame #297
+start at 1942344098
+deadline with margin set 2106498436
+stop at 1957396132. Jitter 131514340
+circles.size = 1
+Frame #298
+start at 2106574438
+deadline with margin set 2270728776
+MISSED DEADLINE
+Frame #299
+start at 2270797747
+deadline with margin set 2434952085
+stop at 2398814986. Jitter 18549135
+circles.size = 1
+Frame #300
+start at 2435013400
+deadline with margin set 2599167738
+MISSED DEADLINE
+Frame #301
+start at 2599269209
+deadline with margin set 2763423547
+stop at 2604246571. Jitter 141589012
+circles.size = 1
+Frame #302
+start at 2763560851
+deadline with margin set 2927715189
+circles.size = 1
+stop at 2917988543. Jitter -7861318
+Frame #303
+start at 2927804142
+deadline with margin set 3091958480
+stop at 2990542333. Jitter 83828183
+circles.size = 1
+Frame #304
+start at 3092094170
+deadline with margin set 3256248508
+stop at 3141704044. Jitter 96956500
+circles.size = 1
+Frame #305
+start at 3256327323
+deadline with margin set 3420481661
+stop at 3327377515. Jitter 75516182
+circles.size = 1
+Frame #306
+start at 3420578861
+deadline with margin set 3584733199
+stop at 3448338155. Jitter 118807080
+circles.size = 1
+Frame #307
+start at 3584792847
+deadline with margin set 3748947185
+stop at 3649268334. Jitter 82090887
+circles.size = 1
+Frame #308
+start at 3749004854
+deadline with margin set 3913159192
+stop at 3801626715. Jitter 93944513
+circles.size = 1
+stop at 3909878934. Jitter -14307706
+Frame #309
+start at 3915376027
+deadline with margin set 4079530365
+circles.size = 1
+stop at 4069932706. Jitter -7990305
+Frame #310
+start at 4079696004
+deadline with margin set 4243850342
+circles.size = 1
+MISSED DEADLINE
+Frame #311
+start at 4243960356
+deadline with margin set 113147398
+stop at 4274072909. Jitter 116453821
+circles.size = 1
+Frame #312
+start at 113230068
+deadline with margin set 277384406
+stop at 140170949. Jitter 119625493
+circles.size = 1
+stop at 245612437. Jitter 14184005
+Frame #313
+start at 277445618
+deadline with margin set 441599956
+circles.size = 1
+MISSED DEADLINE
+Frame #314
+start at 441898772
+deadline with margin set 606053110
+stop at 459904377. Jitter 128560769
+circles.size = 1
+Frame #315
+start at 606121465
+deadline with margin set 770275803
+stop at 619471476. Jitter 133216363
+circles.size = 1
+stop at 762095969. Jitter -9408130
+Frame #316
+start at 770328945
+deadline with margin set 934483283
+circles.size = 1
+stop at 920427298. Jitter -3531979
+Frame #317
+start at 934541215
+deadline with margin set 1098695553
+circles.size = 1
+stop at 1044411358. Jitter 36696231
+Frame #318
+start at 1098759528
+deadline with margin set 1262913866
+circles.size = 1
+stop at 1232737555. Jitter 12588347
+Frame #319
+start at 1263044611
+deadline with margin set 1427198949
+circles.size = 1
+stop at 1342015145. Jitter 67595840
+circles.size = 1
+Frame #320
+start at 1427304486
+deadline with margin set 1591458824
+stop at 1495234282. Jitter 78636578
+circles.size = 1
+Frame #321
+start at 1591495685
+deadline with margin set 1755650023
+stop at 1669218073. Jitter 68843986
+circles.size = 1
+Frame #322
+start at 1755718220
+deadline with margin set 1919872558
+stop at 1821788942. Jitter 80495652
+circles.size = 1
+Frame #323
+start at 1919982057
+deadline with margin set 2084136395
+stop at 1933148097. Jitter 133400334
+circles.size = 1
+stop at 2074736051. Jitter -8187620
+Frame #324
+start at 2084378706
+deadline with margin set 2248533044
+circles.size = 1
+MISSED DEADLINE
+Frame #325
+start at 2248600773
+deadline with margin set 2412755111
+stop at 2277351134. Jitter 117816013
+circles.size = 1
+stop at 2389594456. Jitter 5572691
+Frame #326
+start at 2412863568
+deadline with margin set 2577017906
+circles.size = 1
+MISSED DEADLINE
+Frame #327
+start at 2577096034
+deadline with margin set 2741250372
+stop at 2590378989. Jitter 133283419
+circles.size = 1
+stop at 2685507797. Jitter 38154611
+Frame #328
+start at 2741381959
+deadline with margin set 2905536297
+circles.size = 1
+MISSED DEADLINE
+Frame #329
+start at 2905602832
+deadline with margin set 3069757170
+circles.size = 1
+stop at 2935663530. Jitter 116505676
+stop at 3012549961. Jitter 39619245
+circles.size = 1
+Frame #330
+start at 3069800632
+deadline with margin set 3233954970
+stop at 3104181690. Jitter 112185316
+circles.size = 1
+stop at 3218016157. Jitter -1649151
+Frame #331
+start at 3234032755
+deadline with margin set 3398187093
+circles.size = 1
+stop at 3377016670. Jitter 3582459
+Frame #332
+start at 3398248732
+deadline with margin set 3562403070
+circles.size = 1
+MISSED DEADLINE
+Frame #333
+start at 3562572570
+deadline with margin set 3726726908
+circles.size = 1
+stop at 3691123570. Jitter 18015374
+Frame #334
+start at 3726811834
+deadline with margin set 3890966172
+stop at 3818754729. Jitter 54623479
+circles.size = 1
+Frame #335
+start at 3891100109
+deadline with margin set 4055254447
+circles.size = 1
+stop at 4013120132. Jitter 24546351
+Frame #336
+start at 4055331821
+deadline with margin set 4219486159
+stop at 4085006347. Jitter 116891848
+circles.size = 1
+Frame #337
+start at 4219561867
+deadline with margin set 88748909
+stop at 4259860382. Jitter 106267859
+circles.size = 1
+Frame #338
+start at 88849148
+deadline with margin set 253003486
+stop at 147592471. Jitter 87823051
+circles.size = 1
+Frame #339
+start at 253081797
+deadline with margin set 417236135
+stop at 301340159. Jitter 98308012
+circles.size = 1
+Frame #340
+start at 417394360
+deadline with margin set 581548698
+stop at 463859331. Jitter 100101403
+circles.size = 1
+Frame #341
+start at 581662068
+deadline with margin set 745816406
+stop at 610982662. Jitter 117245780
+circles.size = 1
+Frame #342
+start at 745885559
+deadline with margin set 910039897
+stop at 764620245. Jitter 127831688
+circles.size = 1
+Frame #343
+start at 910107330
+deadline with margin set 1074261668
+stop at 924694945. Jitter 131978759
+circles.size = 1
+Frame #344
+start at 1074337695
+deadline with margin set 1238492033
+stop at 1093614880. Jitter 127289189
+circles.size = 1
+stop at 1187685028. Jitter 33219041
+Frame #345
+start at 1238555196
+deadline with margin set 1402709534
+circles.size = 1
+stop at 1345768983. Jitter 39352587
+Frame #346
+start at 1402776634
+deadline with margin set 1566930972
+circles.size = 1
+stop at 1532426200. Jitter 16916808
+Frame #347
+start at 1566962164
+deadline with margin set 1731116502
+circles.size = 1
+stop at 1648639982. Jitter 64888556
+circles.size = 1
+Frame #348
+start at 1731181860
+deadline with margin set 1895336198
+stop at 1844307946. Jitter 33440288
+circles.size = 1
+Frame #349
+start at 1895385984
+deadline with margin set 2059540322
+stop at 1979988583. Jitter 61963775
+circles.size = 1
+Frame #350
+start at 2059594378
+deadline with margin set 2223748716
+stop at 2135737582. Jitter 70423170
+circles.size = 1
+Frame #351
+start at 2223797929
+deadline with margin set 2387952267
+stop at 2296204712. Jitter 74159591
+circles.size = 1
+Frame #352
+start at 2388006056
+deadline with margin set 2552160394
+stop at 2428900710. Jitter 105671720
+circles.size = 1
+Frame #353
+start at 2552237429
+deadline with margin set 2716391767
+stop at 2617420199. Jitter 81383604
+circles.size = 1
+Frame #354
+start at 2716449843
+deadline with margin set 2880604181
+stop at 2798751023. Jitter 64265194
+Frame #355
+start at 2880686476
+deadline with margin set 3044840814
+circles.size = 1
+MISSED DEADLINE
+Frame #356
+start at 3044896494
+deadline with margin set 3209050832
+circles.size = 1
+MISSED DEADLINE
+Frame #357
+start at 3209137294
+deadline with margin set 3373291632
+stop at 3325964456. Jitter 29739212
+stop at 3325990185. Jitter 29713483
+Frame #358
+start at 3373372371
+deadline with margin set 3537526709
+circles.size = 1
+MISSED DEADLINE
+Frame #359
+start at 3537598494
+deadline with margin set 3701752832
+stop at 3578669569. Jitter 105495299
+circles.size = 1
+Frame #360
+start at 3701841179
+deadline with margin set 3865995517
+stop at 3850759678. Jitter -2352125
+Frame #361
+start at 3866110322
+deadline with margin set 4030264660
+circles.size = 1
+MISSED DEADLINE
+Frame #362
+start at 4030322330
+deadline with margin set 4194476668
+stop at 4103258385. Jitter 73630319
+Frame #363
+start at 4194542255
+deadline with margin set 63729297
+circles.size = 1
+MISSED DEADLINE
+Frame #364
+start at 64048237
+deadline with margin set 228202575
+stop at 84229253. Jitter 126385358
+circles.size = 1
+Frame #365
+start at 228280881
+deadline with margin set 392435219
+MISSED DEADLINE
+Frame #366
+start at 392513109
+deadline with margin set 556667447
+stop at 537814782. Jitter 1264701
+Frame #367
+start at 556759296
+deadline with margin set 720913634
+circles.size = 1
+MISSED DEADLINE
+Frame #368
+start at 721042513
+deadline with margin set 885196851
+stop at 743577265. Jitter 124031622
+circles.size = 1
+Frame #369
+start at 885258700
+deadline with margin set 1049413038
+stop at 1041282949. Jitter -9457875
+Frame #370
+start at 1049511222
+deadline with margin set 1213665560
+circles.size = 1
+MISSED DEADLINE
+Frame #371
+start at 1213724869
+deadline with margin set 1377879207
+stop at 1322859439. Jitter 37431804
+Frame #372
+start at 1378322577
+deadline with margin set 1542476915
+circles.size = 1
+stop at 1535980595. Jitter -11091644
+Frame #373
+start at 1542647577
+deadline with margin set 1706801915
+circles.size = 1
+MISSED DEADLINE
+Frame #374
+start at 1706885026
+deadline with margin set 1871039364
+stop at 1800170493. Jitter 53280907
+circles.size = 1
+Frame #375
+start at 1871088361
+deadline with margin set 2035242699
+stop at 1925176926. Jitter 92477809
+circles.size = 1
+Frame #376
+start at 2035607470
+deadline with margin set 2199761808
+stop at 2081616001. Jitter 100557843
+circles.size = 1
+Frame #377
+start at 2199805819
+deadline with margin set 2363960157
+stop at 2264055347. Jitter 82316846
+circles.size = 1
+Frame #378
+start at 2364025209
+deadline with margin set 2528179547
+stop at 2425637155. Jitter 84954428
+circles.size = 1
+Frame #379
+start at 2528261266
+deadline with margin set 2692415604
+stop at 2597715908. Jitter 77111732
+circles.size = 1
+Frame #380
+start at 2692495344
+deadline with margin set 2856649682
+stop at 2784868445. Jitter 54193273
+circles.size = 1
+Frame #381
+start at 2856799421
+deadline with margin set 3020953759
+stop at 2941581282. Jitter 61784513
+circles.size = 1
+Frame #382
+start at 3020997726
+deadline with margin set 3185152064
+stop at 3065666490. Jitter 101897610
+circles.size = 1
+Frame #383
+start at 3185221975
+deadline with margin set 3349376313
+stop at 3258811364. Jitter 72976985
+circles.size = 1
+Frame #384
+start at 3349409818
+deadline with margin set 3513564156
+stop at 3421849790. Jitter 74126402
+circles.size = 1
+Frame #385
+start at 3513627870
+deadline with margin set 3677782208
+stop at 3545293157. Jitter 114901087
+circles.size = 1
+Frame #386
+start at 3677850869
+deadline with margin set 3842005207
+stop at 3745376094. Jitter 79041149
+circles.size = 1
+Frame #387
+start at 3842082670
+deadline with margin set 4006237008
+stop at 3882677148. Jitter 105971896
+circles.size = 1
+Frame #388
+start at 4006294648
+deadline with margin set 4170448986
+stop at 4036902315. Jitter 115958707
+circles.size = 1
+Frame #389
+start at 4170499747
+deadline with margin set 39686789
+stop at 4222549703. Jitter 94516418
+circles.size = 1
+Frame #390
+start at 39766821
+deadline with margin set 203921159
+stop at 91968077. Jitter 94365118
+circles.size = 1
+Frame #391
+start at 204012284
+deadline with margin set 368166622
+stop at 218795211. Jitter 131783447
+circles.size = 1
+Frame #392
+start at 368271445
+deadline with margin set 532425783
+stop at 421158111. Jitter 93679708
+circles.size = 1
+Frame #393
+start at 532499200
+deadline with margin set 696653538
+stop at 588994320. Jitter 90071254
+circles.size = 1
+Frame #394
+start at 696727925
+deadline with margin set 860882263
+stop at 718029989. Jitter 125264310
+circles.size = 1
+Frame #395
+start at 860991999
+deadline with margin set 1025146337
+stop at 888450351. Jitter 119108022
+circles.size = 1
+Frame #396
+start at 1025212793
+deadline with margin set 1189367131
+stop at 1091322501. Jitter 80456666
+circles.size = 1
+Frame #397
+start at 1189412232
+deadline with margin set 1353566570
+stop at 1240904649. Jitter 95073957
+circles.size = 1
+Frame #398
+start at 1353971511
+deadline with margin set 1518125849
+stop at 1401147568. Jitter 99390317
+circles.size = 1
+Frame #399
+start at 1518222460
+deadline with margin set 1682376798
+stop at 1561295072. Jitter 103493762
+circles.size = 1
+Frame #400
+start at 1682417830
+deadline with margin set 1846572168
+stop at 1756272446. Jitter 72711758
+circles.size = 1
+Frame #401
+start at 1846647860
+deadline with margin set 2010802198
+stop at 1914602492. Jitter 78611742
+circles.size = 1
+Frame #402
+start at 2010888151
+deadline with margin set 2175042489
+stop at 2081948476. Jitter 75506049
+circles.size = 1
+Frame #403
+start at 2175089431
+deadline with margin set 2339243769
+stop at 2246002206. Jitter 75653599
+circles.size = 1
+Frame #404
+start at 2339348472
+deadline with margin set 2503502810
+stop at 2406087753. Jitter 79827093
+circles.size = 1
+Frame #405
+start at 2503743083
+deadline with margin set 2667897421
+stop at 2563072554. Jitter 87236903
+circles.size = 1
+Frame #406
+start at 2667975718
+deadline with margin set 2832130056
+stop at 2688268388. Jitter 126273704
+circles.size = 1
+Frame #407
+start at 2832790974
+deadline with margin set 2996945312
+stop at 2887950915. Jitter 91406433
+circles.size = 1
+Frame #408
+start at 2996998680
+deadline with margin set 3161153018
+stop at 3015271266. Jitter 128293788
+circles.size = 1
+stop at 3159090214. Jitter -15525160
+Frame #409
+start at 3164866497
+deadline with margin set 3329020835
+circles.size = 1
+MISSED DEADLINE
+Frame #410
+start at 3329116598
+deadline with margin set 3493270936
+stop at 3361451771. Jitter 114231201
+circles.size = 1
+Frame #411
+start at 3493374616
+deadline with margin set 3657528954
+stop at 3510156544. Jitter 129784446
+circles.size = 1
+stop at 3607603410. Jitter 32337580
+Frame #412
+start at 3657615447
+deadline with margin set 3821769785
+circles.size = 1
+stop at 3797943920. Jitter 6237901
+Frame #413
+start at 3821823292
+deadline with margin set 3985977630
+circles.size = 1
+stop at 3919996005. Jitter 48393661
+circles.size = 1
+Frame #414
+start at 3986016748
+deadline with margin set 4150171086
+stop at 4117115016. Jitter 15468106
+circles.size = 1
+Frame #415
+start at 4150243276
+deadline with margin set 19430318
+stop at 4220148447. Jitter 76661203
+circles.size = 1
+Frame #416
+start at 19466416
+deadline with margin set 183620754
+stop at 70006113. Jitter 96026677
+circles.size = 1
+Frame #417
+start at 183859973
+deadline with margin set 348014311
+stop at 258337635. Jitter 72088712
+circles.size = 1
+Frame #418
+start at 348128272
+deadline with margin set 512282610
+stop at 376136236. Jitter 118558410
+circles.size = 1
+Frame #419
+start at 512363910
+deadline with margin set 676518248
+stop at 585905795. Jitter 73024489
+circles.size = 1
+Frame #420
+start at 676567856
+deadline with margin set 840722194
+stop at 728491607. Jitter 94642623
+circles.size = 1
+Frame #421
+start at 840907009
+deadline with margin set 1005061347
+stop at 866404881. Jitter 121068502
+circles.size = 1
+Frame #422
+start at 1005103768
+deadline with margin set 1169258106
+stop at 1058959262. Jitter 92710880
+circles.size = 1
+Frame #423
+start at 1169345683
+deadline with margin set 1333500021
+stop at 1195740521. Jitter 120171536
+circles.size = 1
+Frame #424
+start at 1333693169
+deadline with margin set 1497847507
+circles.size = 1
+stop at 1432638924. Jitter 47620619
+stop at 1475501830. Jitter 4757713
+Frame #425
+start at 1497926080
+deadline with margin set 1662080418
+circles.size = 1
+MISSED DEADLINE
+Frame #426
+start at 1662244162
+deadline with margin set 1826398500
+stop at 1706331893. Jitter 102478643
+circles.size = 1
+stop at 1815339494. Jitter -6528958
+Frame #427
+start at 1826526984
+deadline with margin set 1990681322
+circles.size = 1
+stop at 1972212165. Jitter 881193
+Frame #428
+start at 1991063969
+deadline with margin set 2155218307
+circles.size = 1
+MISSED DEADLINE
+Frame #429
+start at 2155346114
+deadline with margin set 2319500452
+stop at 2184916664. Jitter 116995824
+circles.size = 1
+Frame #430
+start at 2319580759
+deadline with margin set 2483735097
+stop at 2335840570. Jitter 130306563
+circles.size = 1
+stop at 2474901085. Jitter -8753952
+Frame #431
+start at 2483810268
+deadline with margin set 2647964606
+circles.size = 1
+MISSED DEADLINE
+Frame #432
+start at 2648022855
+deadline with margin set 2812177193
+stop at 2748189152. Jitter 46400077
+circles.size = 1
+Frame #433
+start at 2812241899
+deadline with margin set 2976396237
+stop at 2857006303. Jitter 101801970
+circles.size = 1
+Frame #434
+start at 2976459173
+deadline with margin set 3140613511
+stop at 3043817285. Jitter 79208262
+circles.size = 1
+Frame #435
+start at 3140668582
+deadline with margin set 3304822920
+stop at 3204870338. Jitter 82364618
+circles.size = 1
+Frame #436
+start at 3304896116
+deadline with margin set 3469050454
+stop at 3362803803. Jitter 88658687
+circles.size = 1
+Frame #437
+start at 3469233316
+deadline with margin set 3633387654
+stop at 3489712979. Jitter 126086711
+circles.size = 1
+Frame #438
+start at 3633447385
+deadline with margin set 3797601723
+stop at 3652122546. Jitter 127891213
+circles.size = 1
+Frame #439
+start at 3797859003
+deadline with margin set 3962013341
+stop at 3847764015. Jitter 96661362
+circles.size = 1
+stop at 3954959908. Jitter -10534531
+Frame #440
+start at 3962308589
+deadline with margin set 4126462927
+circles.size = 1
+MISSED DEADLINE
+Frame #441
+start at 4126644636
+deadline with margin set 4290798974
+stop at 4158272136. Jitter 114938874
+circles.size = 1
+Frame #442
+start at 4291053545
+deadline with margin set 160240587
+stop at 12866859. Jitter 129785764
+circles.size = 1
+stop at 120460529. Jitter 22192094
+Frame #443
+start at 160313279
+deadline with margin set 324467617
+circles.size = 1
+stop at 260589987. Jitter 46289666
+Frame #444
+start at 324506645
+deadline with margin set 488660983
+circles.size = 1
+stop at 416084337. Jitter 54988682
+circles.size = 1
+Frame #445
+start at 488758969
+deadline with margin set 652913307
+stop at 588348605. Jitter 46976738
+circles.size = 1
+Frame #446
+start at 652953533
+deadline with margin set 817107871
+stop at 694107198. Jitter 105412709
+circles.size = 1
+Frame #447
+start at 817193304
+deadline with margin set 981347642
+stop at 888081509. Jitter 75678169
+circles.size = 1
+Frame #448
+start at 981444795
+deadline with margin set 1145599133
+stop at 1034435443. Jitter 93575726
+circles.size = 1
+Frame #449
+start at 1145770193
+deadline with margin set 1309924531
+stop at 1189438677. Jitter 102897890
+circles.size = 1
+Frame #450
+start at 1310130615
+deadline with margin set 1474284953
+stop at 1343930370. Jitter 112766619
+circles.size = 1
+Frame #451
+start at 1474327810
+deadline with margin set 1638482148
+stop at 1492278944. Jitter 128615240
+circles.size = 1
+stop at 1598961239. Jitter 21932945
+Frame #452
+start at 1638560108
+deadline with margin set 1802714446
+circles.size = 1
+stop at 1742555837. Jitter 42570645
+Frame #453
+start at 1802779542
+deadline with margin set 1966933880
+circles.size = 1
+stop at 1900187473. Jitter 49158443
+circles.size = 1
+Frame #454
+start at 1966991945
+deadline with margin set 2131146283
+circles.size = 1
+stop at 2102700265. Jitter 10858054
+Frame #455
+start at 2131240144
+deadline with margin set 2295394482
+stop at 2214532275. Jitter 63274243
+circles.size = 1
+Frame #456
+start at 2295447940
+deadline with margin set 2459602278
+stop at 2327961234. Jitter 114053080
+circles.size = 1
+Frame #457
+start at 2459670006
+deadline with margin set 2623824344
+stop at 2520697503. Jitter 85538877
+circles.size = 1
+Frame #458
+start at 2623958112
+deadline with margin set 2788112450
+stop at 2643867634. Jitter 126656852
+circles.size = 1
+Frame #459
+start at 2788395852
+deadline with margin set 2952550190
+stop at 2815422426. Jitter 119539800
+circles.size = 1
+stop at 2927276051. Jitter 7686175
+Frame #460
+start at 2952651511
+deadline with margin set 3116805849
+circles.size = 1
+stop at 3098290374. Jitter 927511
+Frame #461
+start at 3116893551
+deadline with margin set 3281047889
+circles.size = 1
+stop at 3271741871. Jitter -8281946
+Frame #462
+start at 3281123510
+deadline with margin set 3445277848
+circles.size = 1
+stop at 3429397376. Jitter -1707492
+Frame #463
+start at 3445334303
+deadline with margin set 3609488641
+circles.size = 1
+stop at 3577647805. Jitter 14252872
+circles.size = 1
+Frame #464
+start at 3609554732
+deadline with margin set 3773709070
+stop at 3691092249. Jitter 65028857
+circles.size = 1
+Frame #465
+start at 3773806826
+deadline with margin set 3937961164
+stop at 3863731053. Jitter 56642147
+circles.size = 1
+Frame #466
+start at 3938022358
+deadline with margin set 4102176696
+stop at 3983165380. Jitter 101423352
+circles.size = 1
+Frame #467
+start at 4102238241
+deadline with margin set 4266392579
+stop at 4142903715. Jitter 105900900
+circles.size = 1
+Frame #468
+start at 4266487970
+deadline with margin set 135675012
+stop at 32626929. Jitter 85460119
+circles.size = 1
+stop at 132085321. Jitter -13998273
+Frame #469
+start at 137310214
+deadline with margin set 301464552
+circles.size = 1
+MISSED DEADLINE
+Frame #470
+start at 301559422
+deadline with margin set 465713760
+circles.size = 1
+stop at 352245838. Jitter 95879958
+Frame #471
+start at 465783213
+deadline with margin set 629937551
+stop at 479294917. Jitter 133054670
+circles.size = 1
+Frame #472
+start at 629994505
+deadline with margin set 794148843
+stop at 730846357. Jitter 45714522
+Frame #473
+start at 794237667
+deadline with margin set 958392005
+circles.size = 1
+MISSED DEADLINE
+Frame #474
+start at 958771326
+deadline with margin set 1122925664
+stop at 1039905080. Jitter 65432620
+circles.size = 1
+Frame #475
+start at 1123157957
+deadline with margin set 1287312295
+stop at 1283558995. Jitter -13834664
+Frame #476
+start at 1287501516
+deadline with margin set 1451655854
+circles.size = 1
+MISSED DEADLINE
+Frame #477
+start at 1451764764
+deadline with margin set 1615919102
+stop at 1499420893. Jitter 98910245
+circles.size = 1
+Frame #478
+start at 1616009263
+deadline with margin set 1780163601
+stop at 1746786500. Jitter 15789137
+Frame #479
+start at 1780227147
+deadline with margin set 1944381485
+circles.size = 1
+MISSED DEADLINE
+Frame #480
+start at 1944526215
+deadline with margin set 2108680553
+stop at 1999866722. Jitter 91225867
+Frame #481
+start at 2108755641
+deadline with margin set 2272909979
+circles.size = 1
+MISSED DEADLINE
+Frame #482
+start at 2273223083
+deadline with margin set 2437377421
+stop at 2340572391. Jitter 79217066
+circles.size = 1
+Frame #483
+start at 2437444750
+deadline with margin set 2601599088
+stop at 2580387559. Jitter 3623565
+Frame #484
+start at 2601694332
+deadline with margin set 2765848670
+circles.size = 1
+MISSED DEADLINE
+Frame #485
+start at 2766033392
+deadline with margin set 2930187730
+stop at 2794467661. Jitter 118132105
+circles.size = 1
+Frame #486
+start at 2930302190
+deadline with margin set 3094456528
+stop at 3053838613. Jitter 23029951
+Frame #487
+start at 3094574461
+deadline with margin set 3258728799
+circles.size = 1
+MISSED DEADLINE
+Frame #488
+start at 3258852878
+deadline with margin set 3423007216
+stop at 3332884952. Jitter 72534300
+circles.size = 1
+Frame #489
+start at 3423100982
+deadline with margin set 3587255320
+stop at 3569611416. Jitter 55940
+Frame #490
+start at 3587345389
+deadline with margin set 3751499727
+circles.size = 1
+MISSED DEADLINE
+Frame #491
+start at 3751580630
+deadline with margin set 3915734968
+circles.size = 1
+stop at 3850902450. Jitter 47244554
+stop at 3911230987. Jitter -13083983
+Frame #492
+start at 3916859397
+deadline with margin set 4081013735
+circles.size = 1
+stop at 4053495420. Jitter 9930351
+Frame #493
+start at 4081473516
+deadline with margin set 4245627854
+circles.size = 1
+stop at 4195369655. Jitter 32670235
+Frame #494
+start at 4245699363
+deadline with margin set 114886405
+circles.size = 1
+stop at 88566917. Jitter 8731524
+circles.size = 1
+Frame #495
+start at 114934321
+deadline with margin set 279088659
+stop at 191111967. Jitter 70388728
+circles.size = 1
+Frame #496
+start at 279140586
+deadline with margin set 443294924
+stop at 364522287. Jitter 61184673
+circles.size = 1
+Frame #497
+start at 443341746
+deadline with margin set 607496084
+stop at 530316404. Jitter 59591716
+Frame #498
+start at 607674069
+deadline with margin set 771828407
+circles.size = 1
+MISSED DEADLINE
+Frame #499
+start at 772005625
+deadline with margin set 936159963
+circles.size = 1
+stop at 924865948. Jitter -6293949
+Frame #500
+start at 936327963
+deadline with margin set 1100482301
+MISSED DEADLINE
+Frame #501
+start at 1100590511
+deadline with margin set 1264744849
+stop at 1229774217. Jitter 17382668
+Frame #502
+start at 1264834048
+deadline with margin set 1428988386
+circles.size = 1
+MISSED DEADLINE
+Frame #503
+start at 1429116231
+deadline with margin set 1593270569
+stop at 1504237953. Jitter 71444652
+circles.size = 1
+Frame #504
+start at 1593332561
+deadline with margin set 1757486899
+Frame #505
+start at 1757560926
+deadline with margin set 1921715264
+stop at 1734732640. Jitter 5166295
+circles.size = 1
+MISSED DEADLINE
+Frame #506
+start at 1921818249
+deadline with margin set 2085972587
+stop at 1993854115. Jitter 74530508
+Frame #507
+start at 2086028646
+deadline with margin set 2250182984
+circles.size = 1
+MISSED DEADLINE
+Frame #508
+start at 2250336124
+deadline with margin set 2414490462
+stop at 2273318105. Jitter 123584393
+circles.size = 1
+Frame #509
+start at 2414566937
+deadline with margin set 2578721275
+stop at 2518466472. Jitter 42666839
+Frame #510
+start at 2578799355
+deadline with margin set 2742953693
+circles.size = 1
+MISSED DEADLINE
+Frame #511
+start at 2743072443
+deadline with margin set 2907226781
+stop at 2843165299. Jitter 46473518
+circles.size = 1
+Frame #512
+start at 2907816873
+deadline with margin set 3071971211
+MISSED DEADLINE
+Frame #513
+start at 3072060275
+deadline with margin set 3236214613
+circles.size = 1
+stop at 3145549123. Jitter 73077526
+Frame #514
+start at 3236333623
+deadline with margin set 3400487961
+stop at 3331725766. Jitter 51174231
+circles.size = 1
+Frame #515
+start at 3400574004
+deadline with margin set 3564728342
+stop at 3537822231. Jitter 9318147
+Frame #516
+start at 3564792042
+deadline with margin set 3728946380
+circles.size = 1
+MISSED DEADLINE
+Frame #517
+start at 3729107771
+deadline with margin set 3893262109
+stop at 3801817264. Jitter 73856881
+circles.size = 1
+Frame #518
+start at 3893306576
+deadline with margin set 4057460914
+stop at 3934534710. Jitter 105338240
+circles.size = 1
+Frame #519
+start at 4057517619
+deadline with margin set 4221671957
+stop at 4123580725. Jitter 80503268
+circles.size = 1
+Frame #520
+start at 4221792151
+deadline with margin set 90979193
+stop at 4238930919. Jitter 129427606
+circles.size = 1
+Frame #521
+start at 91051107
+deadline with margin set 255205445
+stop at 136800268. Jitter 100817213
+circles.size = 1
+Frame #522
+start at 255263986
+deadline with margin set 419418324
+stop at 273190845. Jitter 128639515
+circles.size = 1
+Frame #523
+start at 419503505
+deadline with margin set 583657843
+stop at 462112665. Jitter 103957214
+circles.size = 1
+stop at 568044385. Jitter -1974506
+Frame #524
+start at 583713233
+deadline with margin set 747867571
+circles.size = 1
+stop at 715881848. Jitter 14397759
+Frame #525
+start at 747917596
+deadline with margin set 912071934
+circles.size = 1
+stop at 902561593. Jitter -8077623
+Frame #526
+start at 912137220
+deadline with margin set 1076291558
+circles.size = 1
+stop at 1049770687. Jitter 8932907
+circles.size = 1
+Frame #527
+start at 1076340125
+deadline with margin set 1240494463
+stop at 1156272913. Jitter 66633586
+circles.size = 1
+Frame #528
+start at 1240587948
+deadline with margin set 1404742286
+stop at 1339689522. Jitter 47464800
+circles.size = 1
+Frame #529
+start at 1404783914
+deadline with margin set 1568938252
+stop at 1478195627. Jitter 73154661
+circles.size = 1
+Frame #530
+start at 1569001077
+deadline with margin set 1733155415
+stop at 1627932254. Jitter 87635197
+circles.size = 1
+Frame #531
+start at 1733224385
+deadline with margin set 1897378723
+stop at 1783463461. Jitter 96327298
+circles.size = 1
+Frame #532
+start at 1897749300
+deadline with margin set 2061903638
+stop at 1943618601. Jitter 100697073
+circles.size = 1
+Frame #533
+start at 2061979171
+deadline with margin set 2226133509
+stop at 2107899095. Jitter 100646450
+circles.size = 1
+Frame #534
+start at 2226254960
+deadline with margin set 2390409298
+stop at 2270135013. Jitter 102686321
+circles.size = 1
+stop at 2364352646. Jitter 8468688
+Frame #535
+start at 2390475392
+deadline with margin set 2554629730
+circles.size = 1
+MISSED DEADLINE
+Frame #536
+start at 2554689054
+deadline with margin set 2718843392
+circles.size = 1
+stop at 2587566868. Jitter 113688560
+stop at 2650725436. Jitter 50529992
+Frame #537
+start at 2718897403
+deadline with margin set 2883051741
+circles.size = 1
+stop at 2848497570. Jitter 16966207
+circles.size = 1
+Frame #538
+start at 2883109971
+deadline with margin set 3047264309
+stop at 2964150061. Jitter 65526284
+circles.size = 1
+Frame #539
+start at 3047337070
+deadline with margin set 3211491408
+stop at 3130476059. Jitter 63427385
+circles.size = 1
+Frame #540
+start at 3211557285
+deadline with margin set 3375711623
+stop at 3280132891. Jitter 77990768
+circles.size = 1
+Frame #541
+start at 3375797185
+deadline with margin set 3539951523
+stop at 3433009372. Jitter 89354187
+circles.size = 1
+Frame #542
+start at 3540711649
+deadline with margin set 3704865987
+stop at 3588687855. Jitter 98590168
+circles.size = 1
+stop at 3679084647. Jitter 8193376
+Frame #543
+start at 3704984569
+deadline with margin set 3869138907
+circles.size = 1
+stop at 3866416374. Jitter -14865431
+Frame #544
+start at 3869234052
+deadline with margin set 4033388390
+circles.size = 1
+stop at 3982720535. Jitter 33079891
+Frame #545
+start at 4033488535
+deadline with margin set 4197642873
+circles.size = 1
+stop at 4178323480. Jitter 1731429
+Frame #546
+start at 4197703852
+deadline with margin set 66890894
+circles.size = 1
+stop at 28833419. Jitter 20469511
+circles.size = 1
+Frame #547
+start at 66936448
+deadline with margin set 231090786
+stop at 129974723. Jitter 83528099
+circles.size = 1
+Frame #548
+start at 231364874
+deadline with margin set 395519212
+stop at 306409093. Jitter 71522155
+circles.size = 1
+Frame #549
+start at 395567995
+deadline with margin set 559722333
+stop at 454082654. Jitter 88051715
+circles.size = 1
+Frame #550
+start at 560375368
+deadline with margin set 724529706
+stop at 611076459. Jitter 95865283
+circles.size = 1
+stop at 700324160. Jitter 6617582
+Frame #551
+start at 724580831
+deadline with margin set 888735169
+circles.size = 1
+stop at 880243998. Jitter -9096793
+Frame #552
+start at 888830409
+deadline with margin set 1052984747
+circles.size = 1
+stop at 1024971991. Jitter 10424792
+circles.size = 1
+Frame #553
+start at 1053042749
+deadline with margin set 1217197087
+stop at 1138200669. Jitter 61408454
+circles.size = 1
+Frame #554
+start at 1217266015
+deadline with margin set 1381420353
+stop at 1269418381. Jitter 94414008
+circles.size = 1
+Frame #555
+start at 1381508292
+deadline with margin set 1545662630
+stop at 1422292411. Jitter 105782255
+circles.size = 1
+Frame #556
+start at 1545780880
+deadline with margin set 1709935218
+stop at 1577438924. Jitter 114908330
+circles.size = 1
+Frame #557
+start at 1710011230
+deadline with margin set 1874165568
+stop at 1764008748. Jitter 92568856
+circles.size = 1
+Frame #558
+start at 1875219310
+deadline with margin set 2039373648
+stop at 1922324734. Jitter 99460950
+circles.size = 1
+Frame #559
+start at 2039472900
+deadline with margin set 2203627238
+stop at 2067844671. Jitter 118194603
+circles.size = 1
+Frame #560
+start at 2203691836
+deadline with margin set 2367846174
+stop at 2222913319. Jitter 127344891
+circles.size = 1
+stop at 2364776234. Jitter -14518024
+Frame #561
+start at 2367918896
+deadline with margin set 2532073234
+circles.size = 1
+stop at 2506817060. Jitter 7668210
+Frame #562
+start at 2532285587
+deadline with margin set 2696439925
+circles.size = 1
+stop at 2617536624. Jitter 61315337
+circles.size = 1
+Frame #563
+start at 2696500357
+deadline with margin set 2860654695
+circles.size = 1
+stop at 2763010884. Jitter 80055847
+Frame #564
+start at 2860710282
+deadline with margin set 3024864620
+circles.size = 1
+stop at 2993259104. Jitter 14017552
+Frame #565
+start at 3024953614
+deadline with margin set 3189107952
+stop at 3070218212. Jitter 101301776
+circles.size = 1
+Frame #566
+start at 3189167178
+deadline with margin set 3353321516
+MISSED DEADLINE
+Frame #567
+start at 3353374648
+deadline with margin set 3517528986
+stop at 3383814615. Jitter 116126407
+circles.size = 1
+Frame #568
+start at 3517612326
+deadline with margin set 3681766664
+stop at 3557971455. Jitter 106207245
+circles.size = 1
+Frame #569
+start at 3681844379
+deadline with margin set 3845998717
+stop at 3698886022. Jitter 129524731
+circles.size = 1
+stop at 3841419913. Jitter -13009160
+Frame #570
+start at 3846069921
+deadline with margin set 4010224259
+circles.size = 1
+stop at 3946128055. Jitter 46508240
+Frame #571
+start at 4010349713
+deadline with margin set 4174504051
+circles.size = 1
+stop at 4137930974. Jitter 18985113
+circles.size = 1
+Frame #572
+start at 4174580249
+deadline with margin set 43767291
+stop at 4269833761. Jitter 51312862
+circles.size = 1
+Frame #573
+start at 43886405
+deadline with margin set 208040743
+stop at 123597298. Jitter 66855481
+circles.size = 1
+Frame #574
+start at 208096889
+deadline with margin set 372251227
+stop at 277129172. Jitter 77534091
+circles.size = 1
+Frame #575
+start at 372354612
+deadline with margin set 536508950
+stop at 438434074. Jitter 80486912
+circles.size = 1
+Frame #576
+start at 536587595
+deadline with margin set 700741933
+stop at 562851844. Jitter 120302125
+circles.size = 1
+Frame #577
+start at 700836559
+deadline with margin set 864990897
+stop at 757663576. Jitter 89739357
+circles.size = 1
+Frame #578
+start at 865062141
+deadline with margin set 1029216479
+stop at 911034676. Jitter 100593839
+circles.size = 1
+stop at 1018934839. Jitter -7306324
+Frame #579
+start at 1029289651
+deadline with margin set 1193443989
+circles.size = 1
+MISSED DEADLINE
+Frame #580
+start at 1193525702
+deadline with margin set 1357680040
+stop at 1217269652. Jitter 122822424
+circles.size = 1
+stop at 1355861139. Jitter -15769063
+Frame #581
+start at 1357745503
+deadline with margin set 1521899841
+circles.size = 1
+stop at 1503322591. Jitter 989286
+Frame #582
+start at 1521965201
+deadline with margin set 1686119539
+circles.size = 1
+stop at 1657756227. Jitter 10775348
+Frame #583
+start at 1686457546
+deadline with margin set 1850611884
+circles.size = 1
+stop at 1765599446. Jitter 67424474
+circles.size = 1
+Frame #584
+start at 1850655156
+deadline with margin set 2014809494
+stop at 1906947049. Jitter 90274481
+circles.size = 1
+Frame #585
+start at 2014910576
+deadline with margin set 2179064914
+stop at 2055060048. Jitter 106416902
+circles.size = 1
+Frame #586
+start at 2179122977
+deadline with margin set 2343277315
+stop at 2228821448. Jitter 96867903
+circles.size = 1
+Frame #587
+start at 2343376471
+deadline with margin set 2507530809
+stop at 2362754720. Jitter 127188125
+circles.size = 1
+Frame #588
+start at 2507588038
+deadline with margin set 2671742376
+stop at 2522797002. Jitter 131357410
+circles.size = 1
+Frame #589
+start at 2671854667
+deadline with margin set 2836009005
+stop at 2708796047. Jitter 109624994
+circles.size = 1
+stop at 2796047510. Jitter 22373531
+Frame #590
+start at 2836068575
+deadline with margin set 3000222913
+circles.size = 1
+stop at 2973917820. Jitter 8717129
+circles.size = 1
+Frame #591
+start at 3000281649
+deadline with margin set 3164435987
+stop at 3120552804. Jitter 26295219
+circles.size = 1
+Frame #592
+start at 3164520399
+deadline with margin set 3328674737
+stop at 3257118136. Jitter 53968637
+circles.size = 1
+Frame #593
+start at 3328737223
+deadline with margin set 3492891561
+stop at 3409009917. Jitter 66293680
+circles.size = 1
+Frame #594
+start at 3492974151
+deadline with margin set 3657128489
+stop at 3585859378. Jitter 53681147
+circles.size = 1
+Frame #595
+start at 3657522234
+deadline with margin set 3821676572
+MISSED DEADLINE
+Frame #596
+start at 3821753429
+deadline with margin set 3985907767
+circles.size = 1
+stop at 3892334173. Jitter 75985630
+Frame #597
+start at 3985997333
+deadline with margin set 4150151671
+circles.size = 1
+stop at 4137614806. Jitter -5051099
+Frame #598
+start at 4150211966
+deadline with margin set 19399008
+stop at 4263875567. Jitter 32902773
+Frame #599
+start at 19573518
+deadline with margin set 183727856
+circles.size = 1
+MISSED DEADLINE
+Frame #600
+start at 183863253
+deadline with margin set 348017591
+stop at 294098590. Jitter 36331037
+circles.size = 1
+Frame #601
+start at 348101145
+deadline with margin set 512255483
+MISSED DEADLINE
+Frame #602
+start at 512344578
+deadline with margin set 676498916
+circles.size = 1
+stop at 584150179. Jitter 74760773
+Frame #603
+start at 676589520
+deadline with margin set 840743858
+stop at 750068395. Jitter 73087499
+circles.size = 1
+Frame #604
+start at 840859983
+deadline with margin set 1005014321
+stop at 984618525. Jitter 2807832
+Frame #605
+start at 1005094770
+deadline with margin set 1169249108
+circles.size = 1
+MISSED DEADLINE
+Frame #606
+start at 1169327786
+deadline with margin set 1333482124
+stop at 1293470625. Jitter 22423535
+Frame #607
+start at 1333661046
+deadline with margin set 1497815384
+circles.size = 1
+stop at 1481715276. Jitter -1487856
+Frame #608
+start at 1497901977
+deadline with margin set 1662056315
+circles.size = 1
+MISSED DEADLINE
+Frame #609
+start at 1662171969
+deadline with margin set 1826326307
+stop at 1797031941. Jitter 11706402
+Frame #610
+start at 1826419879
+deadline with margin set 1990574217
+circles.size = 1
+MISSED DEADLINE
+Frame #611
+start at 1990874969
+deadline with margin set 2155029307
+stop at 2015543495. Jitter 121897848
+circles.size = 1
+Frame #612
+start at 2155137149
+deadline with margin set 2319291487
+stop at 2273100915. Jitter 28602608
+Frame #613
+start at 2319410211
+deadline with margin set 2483564549
+circles.size = 1
+MISSED DEADLINE
+Frame #614
+start at 2483641871
+deadline with margin set 2647796209
+stop at 2502700486. Jitter 127507759
+circles.size = 1
+Frame #615
+start at 2647878947
+deadline with margin set 2812033285
+MISSED DEADLINE
+Frame #616
+start at 2812132741
+deadline with margin set 2976287079
+circles.size = 1
+stop at 2857882865. Jitter 100816250
+Frame #617
+start at 2976400546
+deadline with margin set 3140554884
+stop at 3053175402. Jitter 69791518
+circles.size = 1
+Frame #618
+start at 3140649496
+deadline with margin set 3304803834
+Frame #619
+start at 3304900062
+deadline with margin set 3469054400
+circles.size = 1
+stop at 3256808359. Jitter 30407511
+MISSED DEADLINE
+Frame #620
+start at 3469225214
+deadline with margin set 3633379552
+stop at 3527544156. Jitter 88247432
+circles.size = 1
+Frame #621
+start at 3633458592
+deadline with margin set 3797612930
+stop at 3774464255. Jitter 5560711
+Frame #622
+start at 3797714679
+deadline with margin set 3961869017
+circles.size = 1
+MISSED DEADLINE
+Frame #623
+start at 3961963734
+deadline with margin set 4126118072
+stop at 4089689325. Jitter 18840783
+Frame #624
+start at 4126162739
+deadline with margin set 4290317077
+circles.size = 1
+MISSED DEADLINE
+Frame #625
+start at 4290452001
+deadline with margin set 159639043
+stop at 67972352. Jitter 74078727
+circles.size = 1
+Frame #626
+start at 159809658
+deadline with margin set 323963996
+MISSED DEADLINE
+Frame #627
+start at 324038820
+deadline with margin set 488193158
+stop at 346518008. Jitter 124087186
+circles.size = 1
+Frame #628
+start at 488287147
+deadline with margin set 652441485
+stop at 595402147. Jitter 39451374
+circles.size = 1
+Frame #629
+start at 652523912
+deadline with margin set 816678250
+stop at 785291521. Jitter 13798765
+Frame #630
+start at 816737344
+deadline with margin set 980891682
+circles.size = 1
+MISSED DEADLINE
+Frame #631
+start at 980977078
+deadline with margin set 1145131416
+circles.size = 1
+MISSED DEADLINE
+Frame #632
+start at 1145225014
+deadline with margin set 1309379352
+stop at 1167404981. Jitter 124386407
+Frame #633
+start at 1309527976
+deadline with margin set 1473682314
+stop at 1363814815. Jitter 92279535
+circles.size = 1
+Frame #634
+start at 1473773701
+deadline with margin set 1637928039
+stop at 1593680896. Jitter 26659179
+circles.size = 1
+Frame #635
+start at 1637977500
+deadline with margin set 1802131838
+stop at 1727100376. Jitter 57443498
+circles.size = 1
+Frame #636
+start at 1802282285
+deadline with margin set 1966436623
+stop at 1876413714. Jitter 72434945
+circles.size = 1
+Frame #637
+start at 1966580091
+deadline with margin set 2130734429
+stop at 2015960455. Jitter 97186010
+circles.size = 1
+Frame #638
+start at 2130791686
+deadline with margin set 2294946024
+circles.size = 1
+stop at 2235301084. Jitter 42056976
+Frame #639
+start at 2295015799
+deadline with margin set 2459170137
+stop at 2348079529. Jitter 93502644
+circles.size = 1
+Frame #640
+start at 2459272464
+deadline with margin set 2623426802
+stop at 2474025629. Jitter 131813209
+circles.size = 1
+Frame #641
+start at 2623501734
+deadline with margin set 2787656072
+stop at 2668306572. Jitter 101761536
+circles.size = 1
+Frame #642
+start at 2787759283
+deadline with margin set 2951913621
+MISSED DEADLINE
+Frame #643
+start at 2951986366
+deadline with margin set 3116140704
+stop at 2977141722. Jitter 121411018
+circles.size = 1
+stop at 3066143634. Jitter 32409106
+Frame #644
+start at 3116215784
+deadline with margin set 3280370122
+circles.size = 1
+stop at 3213264273. Jitter 49517885
+circles.size = 1
+Frame #645
+start at 3280427766
+deadline with margin set 3444582104
+circles.size = 1
+stop at 3412046061. Jitter 14948079
+Frame #646
+start at 3444626103
+deadline with margin set 3608780441
+stop at 3524165245. Jitter 67027232
+circles.size = 1
+Frame #647
+start at 3608833502
+deadline with margin set 3772987840
+stop at 3649109537. Jitter 106290339
+circles.size = 1
+Frame #648
+start at 3773062307
+deadline with margin set 3937216645
+stop at 3791881080. Jitter 127747601
+circles.size = 1
+Frame #649
+start at 3937378972
+deadline with margin set 4101533310
+stop at 3950128667. Jitter 133816679
+circles.size = 1
+stop at 4083245352. Jitter 699994
+Frame #650
+start at 4101598716
+deadline with margin set 4265753054
+circles.size = 1
+MISSED DEADLINE
+Frame #651
+start at 4265820859
+deadline with margin set 135007901
+stop at 4281979209. Jitter 130408024
+circles.size = 1
+stop at 82477125. Jitter 34942812
+Frame #652
+start at 135038206
+deadline with margin set 299192544
+circles.size = 1
+stop at 240460356. Jitter 41144224
+Frame #653
+start at 299296493
+deadline with margin set 463450831
+circles.size = 1
+stop at 394357607. Jitter 51505260
+circles.size = 1
+Frame #654
+start at 463528687
+deadline with margin set 627683025
+circles.size = 1
+stop at 587860740. Jitter 22234321
+Frame #655
+start at 627721507
+deadline with margin set 791875845
+stop at 668318442. Jitter 105969439
+circles.size = 1
+Frame #656
+start at 791951525
+deadline with margin set 956105863
+stop at 854141602. Jitter 84376297
+circles.size = 1
+Frame #657
+start at 956165599
+deadline with margin set 1120319937
+stop at 987615232. Jitter 115116741
+circles.size = 1
+Frame #658
+start at 1120400142
+deadline with margin set 1284554480
+stop at 1169922932. Jitter 97043584
+circles.size = 1
+Frame #659
+start at 1284667548
+deadline with margin set 1448821886
+stop at 1323585256. Jitter 107648666
+circles.size = 1
+stop at 1429710646. Jitter 1523276
+Frame #660
+start at 1448918444
+deadline with margin set 1613072782
+circles.size = 1
+stop at 1566151029. Jitter 29333789
+Frame #661
+start at 1613145174
+deadline with margin set 1777299512
+circles.size = 1
+stop at 1718125559. Jitter 41585989
+Frame #662
+start at 1777365831
+deadline with margin set 1941520169
+circles.size = 1
+stop at 1908035177. Jitter 15897028
+circles.size = 1
+Frame #663
+start at 1941776934
+deadline with margin set 2105931272
+stop at 2012781863. Jitter 75561445
+circles.size = 1
+Frame #664
+start at 2105974661
+deadline with margin set 2270128999
+stop at 2193783623. Jitter 58757412
+circles.size = 1
+Frame #665
+start at 2270227229
+deadline with margin set 2434381567
+stop at 2358650436. Jitter 58143167
+circles.size = 1
+Frame #666
+start at 2434530577
+deadline with margin set 2598684915
+stop at 2511043295. Jitter 70053656
+circles.size = 1
+Frame #667
+start at 2598748459
+deadline with margin set 2762902797
+stop at 2628515748. Jitter 116799085
+circles.size = 1
+Frame #668
+start at 2763110739
+deadline with margin set 2927265077
+stop at 2788033634. Jitter 121643479
+circles.size = 1
+Frame #669
+start at 2927404979
+deadline with margin set 3091559317
+circles.size = 1
+stop at 2995378277. Jitter 78593076
+stop at 3057875245. Jitter 16096108
+Frame #670
+start at 3091823432
+deadline with margin set 3255977770
+circles.size = 1
+stop at 3198370344. Jitter 40019462
+Frame #671
+start at 3256040852
+deadline with margin set 3420195190
+circles.size = 1
+stop at 3384092003. Jitter 18515223
+Frame #672
+start at 3420543104
+deadline with margin set 3584697442
+circles.size = 1
+stop at 3539745882. Jitter 27363596
+circles.size = 1
+Frame #673
+start at 3584726359
+deadline with margin set 3748880697
+stop at 3678190704. Jitter 53102029
+circles.size = 1
+Frame #674
+start at 3748933556
+deadline with margin set 3913087894
+stop at 3779115949. Jitter 116383981
+circles.size = 1
+Frame #675
+start at 3913185878
+deadline with margin set 4077340216
+stop at 3932194223. Jitter 127558029
+circles.size = 1
+Frame #676
+start at 4077424450
+deadline with margin set 4241578788
+stop at 4097084590. Jitter 126906234
+circles.size = 1
+Frame #677
+start at 4241949000
+deadline with margin set 111136042
+stop at 4268931426. Jitter 119583948
+circles.size = 1
+Frame #678
+start at 111214183
+deadline with margin set 275368521
+stop at 164484534. Jitter 93296023
+circles.size = 1
+Frame #679
+start at 275497284
+deadline with margin set 439651622
+stop at 321243378. Jitter 100820280
+circles.size = 1
+Frame #680
+start at 439959643
+deadline with margin set 604113981
+stop at 468035443. Jitter 118490574
+circles.size = 1
+stop at 565954379. Jitter 20571638
+Frame #681
+start at 604160881
+deadline with margin set 768315219
+circles.size = 1
+stop at 717929643. Jitter 32797612
+Frame #682
+start at 768379670
+deadline with margin set 932534008
+circles.size = 1
+stop at 865931435. Jitter 49014609
+circles.size = 1
+Frame #683
+start at 932719809
+deadline with margin set 1096874147
+stop at 1008595961. Jitter 70690222
+circles.size = 1
+Frame #684
+start at 1096918547
+deadline with margin set 1261072885
+stop at 1142289995. Jitter 101194926
+circles.size = 1
+Frame #685
+start at 1261154784
+deadline with margin set 1425309122
+stop at 1331777937. Jitter 75943221
+circles.size = 1
+Frame #686
+start at 1425386698
+deadline with margin set 1589541036
+stop at 1446522428. Jitter 125430644
+circles.size = 1
+Frame #687
+start at 1589588832
+deadline with margin set 1753743170
+stop at 1636987508. Jitter 99167698
+circles.size = 1
+Frame #688
+start at 1753853566
+deadline with margin set 1918007904
+stop at 1807290515. Jitter 93129425
+circles.size = 1
+Frame #689
+start at 1918351102
+deadline with margin set 2082505440
+stop at 1964306508. Jitter 100610968
+circles.size = 1
+Frame #690
+start at 2084253055
+deadline with margin set 2248407393
+stop at 2122465993. Jitter 108353436
+circles.size = 1
+Frame #691
+start at 2248484925
+deadline with margin set 2412639263
+stop at 2276963087. Jitter 118088212
+circles.size = 1
+stop at 2409036647. Jitter -13985348
+Frame #692
+start at 2412702318
+deadline with margin set 2576856656
+circles.size = 1
+stop at 2516111111. Jitter 43157581
+circles.size = 1
+Frame #693
+start at 2576916969
+deadline with margin set 2741071307
+stop at 2695759902. Jitter 27723441
+circles.size = 1
+Frame #694
+start at 2741117496
+deadline with margin set 2905271834
+stop at 2796482609. Jitter 91201261
+circles.size = 1
+Frame #695
+start at 2905329846
+deadline with margin set 3069484184
+stop at 2981216743. Jitter 70679477
+circles.size = 1
+Frame #696
+start at 3069560580
+deadline with margin set 3233714918
+stop at 3092437936. Jitter 123689018
+circles.size = 1
+Frame #697
+start at 3233785534
+deadline with margin set 3397939872
+stop at 3251972319. Jitter 128379589
+circles.size = 1
+Frame #698
+start at 3398038246
+deadline with margin set 3562192584
+stop at 3419819453. Jitter 124785167
+circles.size = 1
+Frame #699
+start at 3562286872
+deadline with margin set 3726441210
+stop at 3611909403. Jitter 96943843
+circles.size = 1
+Frame #700
+start at 3726556105
+deadline with margin set 3890710443
+stop at 3774009151. Jitter 99113328
+circles.size = 1
+Frame #701
+start at 3890817109
+deadline with margin set 4054971447
+stop at 4051366146. Jitter -13982663
+Frame #702
+start at 4055026031
+deadline with margin set 4219180369
+circles.size = 1
+stop at 4191206023. Jitter 10386382
+circles.size = 1
+Frame #703
+start at 4219248651
+deadline with margin set 88435693
+circles.size = 1
+stop at 53215063. Jitter 17632666
+Frame #704
+start at 88488403
+deadline with margin set 252642741
+stop at 102120282. Jitter 132934495
+circles.size = 1
+Frame #705
+start at 252839075
+deadline with margin set 416993413
+stop at 364867552. Jitter 34537897
+Frame #706
+start at 417051290
+deadline with margin set 581205628
+circles.size = 1
+MISSED DEADLINE
+Frame #707
+start at 581362615
+deadline with margin set 745516953
+circles.size = 1
+stop at 731336268. Jitter -3407279
+Frame #708
+start at 745727271
+deadline with margin set 909881609
+stop at 868438796. Jitter 23854849
+Frame #709
+start at 909944694
+deadline with margin set 1074099032
+circles.size = 1
+MISSED DEADLINE
+Frame #710
+start at 1074192167
+deadline with margin set 1238346505
+circles.size = 1
+stop at 1234909487. Jitter -14150946
+Frame #711
+start at 1238442707
+deadline with margin set 1402597045
+MISSED DEADLINE
+Frame #712
+start at 1402692120
+deadline with margin set 1566846458
+circles.size = 1
+stop at 1486479821. Jitter 62778673
+Frame #713
+start at 1566987415
+deadline with margin set 1731141753
+circles.size = 1
+MISSED DEADLINE
+Frame #714
+start at 1731484681
+deadline with margin set 1895639019
+MISSED DEADLINE
+Frame #715
+start at 1895903252
+deadline with margin set 2060057590
+circles.size = 1
+stop at 1969540594. Jitter 72929032
+stop at 1969560854. Jitter 72908772
+Frame #716
+start at 2060189433
+deadline with margin set 2224343771
+stop at 2092230124. Jitter 114525683
+circles.size = 1
+Frame #717
+start at 2224556082
+deadline with margin set 2388710420
+MISSED DEADLINE
+Frame #718
+start at 2388816600
+deadline with margin set 2552970938
+circles.size = 1
+stop at 2459358266. Jitter 76024708
+Frame #719
+start at 2553088419
+deadline with margin set 2717242757
+stop at 2590805491. Jitter 108849302
+circles.size = 1
+Frame #720
+start at 2717325449
+deadline with margin set 2881479787
+MISSED DEADLINE
+Frame #721
+start at 2881545396
+deadline with margin set 3045699734
+stop at 2925999337. Jitter 102112433
+circles.size = 1
+Frame #722
+start at 3045750031
+deadline with margin set 3209904369
+stop at 3124710518. Jitter 67605887
+Frame #723
+start at 3209984207
+deadline with margin set 3374138545
+circles.size = 1
+MISSED DEADLINE
+Frame #724
+start at 3374784504
+deadline with margin set 3538938842
+stop at 3445275508. Jitter 76075370
+circles.size = 1
+Frame #725
+start at 3539108209
+deadline with margin set 3703262547
+stop at 3613512203. Jitter 72162380
+circles.size = 1
+Frame #726
+start at 3703363167
+deadline with margin set 3867517505
+stop at 3804839617. Jitter 45089924
+circles.size = 1
+Frame #727
+start at 3867577763
+deadline with margin set 4031732101
+circles.size = 1
+stop at 4017038846. Jitter -2894709
+Frame #728
+start at 4031875428
+deadline with margin set 4196029766
+stop at 4103108116. Jitter 75333686
+circles.size = 1
+Frame #729
+start at 4196121239
+deadline with margin set 65308281
+stop at 4293798337. Jitter 48889276
+circles.size = 1
+Frame #730
+start at 65405686
+deadline with margin set 229560024
+stop at 155303994. Jitter 56668066
+circles.size = 1
+Frame #731
+start at 229626546
+deadline with margin set 393780884
+stop at 303777647. Jitter 72415273
+circles.size = 1
+Frame #732
+start at 393860113
+deadline with margin set 558014451
+stop at 452682789. Jitter 87743698
+circles.size = 1
+Frame #733
+start at 558074879
+deadline with margin set 722229217
+stop at 573600430. Jitter 131040823
+circles.size = 1
+stop at 706283127. Jitter -1641874
+Frame #734
+start at 725393140
+deadline with margin set 889547478
+circles.size = 1
+MISSED DEADLINE
+Frame #735
+start at 889652669
+deadline with margin set 1053807007
+stop at 1026568003. Jitter 9651040
+Frame #736
+start at 1053901458
+deadline with margin set 1218055796
+circles.size = 1
+MISSED DEADLINE
+Frame #737
+start at 1218147748
+deadline with margin set 1382302086
+stop at 1249917340. Jitter 114796782
+circles.size = 1
+Frame #738
+start at 1382432629
+deadline with margin set 1546586967
+stop at 1540147988. Jitter -11148985
+Frame #739
+start at 1546675481
+deadline with margin set 1710829819
+circles.size = 1
+MISSED DEADLINE
+Frame #740
+start at 1710902344
+deadline with margin set 1875056682
+stop at 1740071595. Jitter 117397123
+circles.size = 1
+Frame #741
+start at 1875170697
+deadline with margin set 2039325035
+stop at 2039326433. Jitter -17589362
+Frame #742
+start at 2039393045
+deadline with margin set 2203547383
+circles.size = 1
+MISSED DEADLINE
+Frame #743
+start at 2203619194
+deadline with margin set 2367773532
+circles.size = 1
+MISSED DEADLINE
+Frame #744
+start at 2367866957
+deadline with margin set 2532021295
+MISSED DEADLINE
+Frame #745
+start at 2532104148
+deadline with margin set 2696258486
+circles.size = 1
+stop at 2619110783. Jitter 59559739
+stop at 2619136563. Jitter 59533959
+Frame #746
+start at 2696375503
+deadline with margin set 2860529841
+circles.size = 1
+stop at 2846266837. Jitter -3324960
+Frame #747
+start at 2860582111
+deadline with margin set 3024736449
+MISSED DEADLINE
+Frame #748
+start at 3024912595
+deadline with margin set 3189066933
+stop at 3057235562. Jitter 114243407
+circles.size = 1
+Frame #749
+start at 3189146051
+deadline with margin set 3353300389
+stop at 3211485508. Jitter 124226917
+Frame #750
+start at 3353380133
+deadline with margin set 3517534471
+circles.size = 1
+stop at 3500580848. Jitter -634341
+Frame #751
+start at 3517737490
+deadline with margin set 3681891828
+circles.size = 1
+MISSED DEADLINE
+Frame #752
+start at 3681960687
+deadline with margin set 3846115025
+MISSED DEADLINE
+Frame #753
+start at 3846207164
+deadline with margin set 4010361502
+circles.size = 1
+stop at 3889324519. Jitter 103449019
+Frame #754
+start at 4010426005
+deadline with margin set 4174580343
+stop at 4066273964. Jitter 90718415
+circles.size = 1
+Frame #755
+start at 4177572560
+deadline with margin set 46759602
+stop at 4225537116. Jitter 98601818
+circles.size = 1
+stop at 24905523. Jitter 4266115
+Frame #756
+start at 46842956
+deadline with margin set 210997294
+circles.size = 1
+MISSED DEADLINE
+Frame #757
+start at 211068722
+deadline with margin set 375223060
+stop at 229949278. Jitter 127685818
+circles.size = 1
+stop at 330350716. Jitter 27284380
+Frame #758
+start at 375316778
+deadline with margin set 539471116
+circles.size = 1
+stop at 486982699. Jitter 34900453
+Frame #759
+start at 539530148
+deadline with margin set 703684486
+circles.size = 1
+stop at 657094050. Jitter 29002472
+circles.size = 1
+Frame #760
+start at 703761095
+deadline with margin set 867915433
+stop at 774926889. Jitter 75400580
+circles.size = 1
+Frame #761
+start at 867982659
+deadline with margin set 1032136997
+stop at 891875762. Jitter 122673271
+circles.size = 1
+stop at 1018406490. Jitter -3857457
+Frame #762
+start at 1032450409
+deadline with margin set 1196604747
+circles.size = 1
+stop at 1158892600. Jitter 20124183
+Frame #763
+start at 1196676504
+deadline with margin set 1360830842
+circles.size = 1
+stop at 1298370844. Jitter 44872034
+circles.size = 1
+Frame #764
+start at 1360897183
+deadline with margin set 1525051521
+stop at 1438770812. Jitter 68692745
+circles.size = 1
+Frame #765
+start at 1525115415
+deadline with margin set 1689269753
+circles.size = 1
+stop at 1617194431. Jitter 54487358
+stop at 1659847960. Jitter 11833829
+Frame #766
+start at 1689331752
+deadline with margin set 1853486090
+circles.size = 1
+MISSED DEADLINE
+Frame #767
+start at 1853602811
+deadline with margin set 2017757149
+stop at 1899849072. Jitter 100320113
+circles.size = 1
+stop at 2003917090. Jitter -3747905
+Frame #768
+start at 2017836164
+deadline with margin set 2181990502
+circles.size = 1
+stop at 2095092856. Jitter 69309682
+circles.size = 1
+Frame #769
+start at 2182079151
+deadline with margin set 2346233489
+stop at 2248621136. Jitter 80024389
+circles.size = 1
+Frame #770
+start at 2346340471
+deadline with margin set 2510494809
+stop at 2475437199. Jitter 17469646
+circles.size = 1
+Frame #771
+start at 2510534451
+deadline with margin set 2674688789
+stop at 2617620090. Jitter 39480735
+circles.size = 1
+Frame #772
+start at 2674748885
+deadline with margin set 2838903223
+stop at 2777446920. Jitter 43868339
+circles.size = 1
+Frame #773
+start at 2839080428
+deadline with margin set 3003234766
+stop at 2900047877. Jitter 85598925
+circles.size = 1
+Frame #774
+start at 3003323070
+deadline with margin set 3167477408
+circles.size = 1
+stop at 3146648103. Jitter 3241341
+Frame #775
+start at 3167528734
+deadline with margin set 3331683072
+stop at 3218293329. Jitter 95801779
+circles.size = 1
+Frame #776
+start at 3331824602
+deadline with margin set 3495978940
+MISSED DEADLINE
+Frame #777
+start at 3496033652
+deadline with margin set 3660187990
+MISSED DEADLINE
+Frame #778
+start at 3660242647
+deadline with margin set 3824396985
+MISSED DEADLINE
+Frame #779
+start at 3824493901
+deadline with margin set 3988648239
+stop at 3978302580. Jitter -7242305
+Frame #780
+start at 3988717605
+deadline with margin set 4152871943
+circles.size = 1
+stop at 4097374284. Jitter 37909695
+Frame #781
+start at 4152930789
+deadline with margin set 22117831
+circles.size = 1
+stop at 4260086193. Jitter 39410970
+Frame #782
+start at 22365260
+deadline with margin set 186519598
+circles.size = 1
+stop at 105261888. Jitter 63669746
+circles.size = 1
+Frame #783
+start at 186592505
+deadline with margin set 350746843
+stop at 255142388. Jitter 78016491
+circles.size = 1
+Frame #784
+start at 350787361
+deadline with margin set 514941699
+stop at 390533219. Jitter 106820516
+circles.size = 1
+Frame #785
+start at 515046656
+deadline with margin set 679200994
+stop at 530108044. Jitter 131504986
+circles.size = 1
+Frame #786
+start at 679259599
+deadline with margin set 843413937
+stop at 692871428. Jitter 132954545
+circles.size = 1
+stop at 831446827. Jitter -5620854
+Frame #787
+start at 843602744
+deadline with margin set 1007757082
+circles.size = 1
+MISSED DEADLINE
+Frame #788
+start at 1007850008
+deadline with margin set 1172004346
+stop at 1023189662. Jitter 131226720
+circles.size = 1
+stop at 1151244890. Jitter 3171492
+Frame #789
+start at 1172073575
+deadline with margin set 1336227913
+circles.size = 1
+stop at 1301812495. Jitter 16827454
+circles.size = 1
+Frame #790
+start at 1336290281
+deadline with margin set 1500444619
+stop at 1453484569. Jitter 29372086
+circles.size = 1
+Frame #791
+start at 1500521526
+deadline with margin set 1664675864
+stop at 1555707941. Jitter 91379959
+circles.size = 1
+Frame #792
+start at 1664757561
+deadline with margin set 1828911899
+stop at 1740417097. Jitter 70906838
+circles.size = 1
+Frame #793
+start at 1828965942
+deadline with margin set 1993120280
+stop at 1851541762. Jitter 123990554
+circles.size = 1
+Frame #794
+start at 1993174947
+deadline with margin set 2157329285
+stop at 2044339807. Jitter 95401514
+circles.size = 1
+Frame #795
+start at 2157405410
+deadline with margin set 2321559748
+stop at 2206092278. Jitter 97879506
+circles.size = 1
+Frame #796
+start at 2321669382
+deadline with margin set 2485823720
+stop at 2341140671. Jitter 127095085
+circles.size = 1
+Frame #797
+start at 2485884085
+deadline with margin set 2650038423
+stop at 2532826700. Jitter 99623759
+circles.size = 1
+stop at 2640875330. Jitter -8424871
+Frame #798
+start at 2650134569
+deadline with margin set 2814288907
+circles.size = 1
+stop at 2805378456. Jitter -8677513
+Frame #799
+start at 2814356303
+deadline with margin set 2978510641
+circles.size = 1
+MISSED DEADLINE
+Frame #800
+start at 2978849117
+deadline with margin set 3143003455
+circles.size = 1
+stop at 3038952894. Jitter 86462597
+Frame #801
+start at 3143075278
+deadline with margin set 3307229616
+stop at 3161410432. Jitter 128231220
+circles.size = 1
+stop at 3295700019. Jitter -6058367
+Frame #802
+start at 3307304749
+deadline with margin set 3471459087
+circles.size = 1
+stop at 3445003997. Jitter 8867126
+circles.size = 1
+Frame #803
+start at 3471521923
+deadline with margin set 3635676261
+stop at 3591521304. Jitter 26566993
+circles.size = 1
+Frame #804
+start at 3635732482
+deadline with margin set 3799886820
+stop at 3695094395. Jitter 87204461
+circles.size = 1
+Frame #805
+start at 3799930751
+deadline with margin set 3964085089
+stop at 3847173065. Jitter 99324060
+circles.size = 1
+Frame #806
+start at 3964157090
+deadline with margin set 4128311428
+stop at 3993701153. Jitter 117022311
+circles.size = 1
+Frame #807
+start at 4128389211
+deadline with margin set 4292543549
+stop at 4176611316. Jitter 98344269
+circles.size = 1
+Frame #808
+start at 4292591473
+deadline with margin set 161778515
+stop at 6181674. Jitter 138008877
+circles.size = 1
+stop at 149825421. Jitter -5634870
+Frame #809
+start at 162286349
+deadline with margin set 326440687
+circles.size = 1
+MISSED DEADLINE
+Frame #810
+start at 326591926
+deadline with margin set 490746264
+stop at 350025634. Jitter 123132666
+circles.size = 1
+stop at 482321204. Jitter -9162904
+Frame #811
+start at 490820632
+deadline with margin set 654974970
+circles.size = 1
+stop at 601068043. Jitter 36318963
+Frame #812
+start at 655015746
+deadline with margin set 819170084
+circles.size = 1
+stop at 792912049. Jitter 8670071
+Frame #813
+start at 819372986
+deadline with margin set 983527324
+circles.size = 1
+stop at 941502138. Jitter 24437222
+circles.size = 1
+Frame #814
+start at 983641004
+deadline with margin set 1147795342
+stop at 1041531794. Jitter 88675584
+circles.size = 1
+Frame #815
+start at 1147862546
+deadline with margin set 1312016884
+stop at 1219176600. Jitter 75252320
+circles.size = 1
+Frame #816
+start at 1312102368
+deadline with margin set 1476256706
+stop at 1362412382. Jitter 96256360
+circles.size = 1
+Frame #817
+start at 1476320577
+deadline with margin set 1640474915
+stop at 1495763454. Jitter 127123497
+circles.size = 1
+Frame #818
+start at 1640612897
+deadline with margin set 1804767235
+stop at 1658435707. Jitter 128743564
+circles.size = 1
+Frame #819
+start at 1804853396
+deadline with margin set 1969007734
+stop at 1850530959. Jitter 100888811
+circles.size = 1
+stop at 1959833629. Jitter -8413859
+Frame #820
+start at 1969410490
+deadline with margin set 2133564828
+circles.size = 1
+MISSED DEADLINE
+Frame #821
+start at 2133660440
+deadline with margin set 2297814778
+circles.size = 1
+stop at 2182039028. Jitter 98187786
+stop at 2260068555. Jitter 20158259
+Frame #822
+start at 2297879923
+deadline with margin set 2462034261
+circles.size = 1
+stop at 2400037576. Jitter 44408721
+Frame #823
+start at 2462094614
+deadline with margin set 2626248952
+circles.size = 1
+stop at 2604800565. Jitter 3860423
+Frame #824
+start at 2626423466
+deadline with margin set 2790577804
+circles.size = 1
+MISSED DEADLINE
+Frame #825
+start at 2790840282
+deadline with margin set 2954994620
+MISSED DEADLINE
+Frame #826
+start at 2955063202
+deadline with margin set 3119217540
+circles.size = 1
+stop at 3013434278. Jitter 88195298
+Frame #827
+start at 3119395155
+deadline with margin set 3283549493
+stop at 3194453251. Jitter 71508278
+circles.size = 1
+Frame #828
+start at 3283914542
+deadline with margin set 3448068880
+stop at 3387163542. Jitter 43317374
+Frame #829
+start at 3448160298
+deadline with margin set 3612314636
+circles.size = 1
+MISSED DEADLINE
+Frame #830
+start at 3612495788
+deadline with margin set 3776650126
+stop at 3650740394. Jitter 108321768
+circles.size = 1
+Frame #831
+start at 3776985436
+deadline with margin set 3941139774
+stop at 3924869462. Jitter -1317652
+Frame #832
+start at 3941220828
+deadline with margin set 4105375166
+circles.size = 1
+MISSED DEADLINE
+Frame #833
+start at 4105460215
+deadline with margin set 4269614553
+stop at 4204827564. Jitter 47199025
+circles.size = 1
+Frame #834
+start at 4269696153
+deadline with margin set 138883195
+MISSED DEADLINE
+Frame #835
+start at 138980679
+deadline with margin set 303135017
+stop at 186995230. Jitter 98551823
+circles.size = 1
+Frame #836
+start at 303341818
+deadline with margin set 467496156
+stop at 378103905. Jitter 71804287
+Frame #837
+start at 467586349
+deadline with margin set 631740687
+circles.size = 1
+stop at 627282234. Jitter -13129511
+Frame #838
+start at 632136227
+deadline with margin set 796290565
+circles.size = 1
+MISSED DEADLINE
+Frame #839
+start at 796414498
+deadline with margin set 960568836
+stop at 934288177. Jitter 8692695
+Frame #840
+start at 960636452
+deadline with margin set 1124790790
+circles.size = 1
+MISSED DEADLINE
+Frame #841
+start at 1124870176
+deadline with margin set 1289024514
+stop at 1198127887. Jitter 73308663
+circles.size = 1
+Frame #842
+start at 1289082860
+deadline with margin set 1453237198
+stop at 1438476918. Jitter -2827684
+Frame #843
+start at 1453496678
+deadline with margin set 1617651016
+circles.size = 1
+stop at 1617257617. Jitter -17194565
+Frame #844
+start at 1617760401
+deadline with margin set 1781914739
+circles.size = 1
+stop at 1757929322. Jitter 6397453
+circles.size = 1
+Frame #845
+start at 1781975271
+deadline with margin set 1946129609
+circles.size = 1
+stop at 1920667899. Jitter 7873746
+Frame #846
+start at 1946245477
+deadline with margin set 2110399815
+MISSED DEADLINE
+Frame #847
+start at 2110444595
+deadline with margin set 2274598933
+stop at 2173593534. Jitter 83417435
+circles.size = 1
+Frame #848
+start at 2274707823
+deadline with margin set 2438862161
+stop at 2321444642. Jitter 99829555
+circles.size = 1
+Frame #849
+start at 2438966780
+deadline with margin set 2603121118
+stop at 2468677035. Jitter 116856119
+circles.size = 1
+Frame #850
+start at 2603184698
+deadline with margin set 2767339036
+stop at 2620580407. Jitter 129170665
+circles.size = 1
+stop at 2757921615. Jitter -8170543
+Frame #851
+start at 2767412674
+deadline with margin set 2931567012
+circles.size = 1
+stop at 2870207285. Jitter 43771763
+circles.size = 1
+Frame #852
+start at 2931609683
+deadline with margin set 3095764021
+stop at 3008717412. Jitter 69458645
+circles.size = 1
+Frame #853
+start at 3095819712
+deadline with margin set 3259974050
+stop at 3181820306. Jitter 60565780
+circles.size = 1
+Frame #854
+start at 3260057864
+deadline with margin set 3424212202
+MISSED DEADLINE
+Frame #855
+start at 3424315859
+deadline with margin set 3588470197
+circles.size = 1
+stop at 3505668808. Jitter 65213425
+Frame #856
+start at 3588646089
+deadline with margin set 3752800427
+stop at 3629246370. Jitter 105966093
+circles.size = 1
+Frame #857
+start at 3752968781
+deadline with margin set 3917123119
+stop at 3874546716. Jitter 24988439
+Frame #858
+start at 3917270395
+deadline with margin set 4081424733
+circles.size = 1
+MISSED DEADLINE
+Frame #859
+start at 4081595965
+deadline with margin set 4245750303
+stop at 4171068189. Jitter 57094150
+circles.size = 1
+Frame #860
+start at 4245906432
+deadline with margin set 115093474
+stop at 80531234. Jitter 16974276
+Frame #861
+start at 115252468
+deadline with margin set 279406806
+circles.size = 1
+MISSED DEADLINE
+Frame #862
+start at 279529604
+deadline with margin set 443683942
+stop at 324906199. Jitter 101189779
+circles.size = 1
+Frame #863
+start at 443769210
+deadline with margin set 607923548
+MISSED DEADLINE
+Frame #864
+start at 608077414
+deadline with margin set 772231752
+circles.size = 1
+stop at 710409405. Jitter 44234383
+Frame #865
+start at 772361140
+deadline with margin set 936515478
+circles.size = 1
+MISSED DEADLINE
+Frame #866
+start at 936570704
+deadline with margin set 1100725042
+stop at 963451398. Jitter 119685680
+Frame #867
+start at 1100811256
+deadline with margin set 1264965594
+stop at 1140641962. Jitter 106735668
+circles.size = 1
+Frame #868
+start at 1265101336
+deadline with margin set 1429255674
+stop at 1343804836. Jitter 67862874
+circles.size = 1
+Frame #869
+start at 1429332801
+deadline with margin set 1593487139
+MISSED DEADLINE
+Frame #870
+start at 1593587182
+deadline with margin set 1757741520
+circles.size = 1
+stop at 1694077310. Jitter 46076246
+Frame #871
+start at 1757904060
+deadline with margin set 1922058398
+stop at 1818794737. Jitter 85675697
+circles.size = 1
+Frame #872
+start at 1922138079
+deadline with margin set 2086292417
+stop at 2063313790. Jitter 5390663
+Frame #873
+start at 2086407512
+deadline with margin set 2250561850
+circles.size = 1
+MISSED DEADLINE
+Frame #874
+start at 2250680173
+deadline with margin set 2414834511
+circles.size = 1
+stop at 2399395891. Jitter -2149344
+Frame #875
+start at 2414882352
+deadline with margin set 2579036690
+stop at 2483163805. Jitter 78284921
+circles.size = 1
+Frame #876
+start at 2579088589
+deadline with margin set 2743242927
+stop at 2663552138. Jitter 62102825
+circles.size = 1
+Frame #877
+start at 2743292847
+deadline with margin set 2907447185
+stop at 2784099708. Jitter 105759513
+circles.size = 1
+Frame #878
+start at 2907503355
+deadline with margin set 3071657693
+stop at 2930859914. Jitter 123209815
+circles.size = 1
+Frame #879
+start at 3071729903
+deadline with margin set 3235884241
+stop at 3142403555. Jitter 75892722
+circles.size = 1
+stop at 3227441288. Jitter -9145011
+Frame #880
+start at 3236541989
+deadline with margin set 3400696327
+circles.size = 1
+stop at 3382827220. Jitter 281143
+Frame #881
+start at 3401110535
+deadline with margin set 3565264873
+circles.size = 1
+stop at 3557384264. Jitter -9707355
+Frame #882
+start at 3565332114
+deadline with margin set 3729486452
+circles.size = 1
+stop at 3706627013. Jitter 5271475
+circles.size = 1
+Frame #883
+start at 3729537704
+deadline with margin set 3893692042
+stop at 3854630046. Jitter 21474032
+circles.size = 1
+Frame #884
+start at 3894023901
+deadline with margin set 4058178239
+stop at 3994413006. Jitter 46177269
+circles.size = 1
+Frame #885
+start at 4058273030
+deadline with margin set 4222427368
+stop at 4114287698. Jitter 90551706
+circles.size = 1
+Frame #886
+start at 4222499973
+deadline with margin set 91687015
+stop at 4272529900. Jitter 96536447
+circles.size = 1
+Frame #887
+start at 91741334
+deadline with margin set 255895672
+stop at 153975283. Jitter 84332425
+circles.size = 1
+Frame #888
+start at 259630375
+deadline with margin set 423784713
+stop at 306617028. Jitter 99579721
+circles.size = 1
+stop at 414378918. Jitter -8182169
+Frame #889
+start at 423888492
+deadline with margin set 588042830
+circles.size = 1
+stop at 558369370. Jitter 12085496
+Frame #890
+start at 588100414
+deadline with margin set 752254752
+circles.size = 1
+stop at 735002823. Jitter -336035
+Frame #891
+start at 752331814
+deadline with margin set 916486152
+circles.size = 1
+stop at 849153020. Jitter 49745168
+circles.size = 1
+Frame #892
+start at 916562641
+deadline with margin set 1080716979
+circles.size = 1
+stop at 1057225745. Jitter 5903270
+Frame #893
+start at 1080757533
+deadline with margin set 1244911871
+stop at 1133547453. Jitter 93776454
+circles.size = 1
+Frame #894
+start at 1245003182
+deadline with margin set 1409157520
+stop at 1272855161. Jitter 118714395
+circles.size = 1
+Frame #895
+start at 1409841971
+deadline with margin set 1573996309
+stop at 1464322256. Jitter 92086089
+circles.size = 1
+stop at 1556558910. Jitter -150565
+Frame #896
+start at 1574174490
+deadline with margin set 1738328828
+circles.size = 1
+stop at 1714576766. Jitter 6164098
+Frame #897
+start at 1738393213
+deadline with margin set 1902547551
+circles.size = 1
+stop at 1894133918. Jitter -9174331
+Frame #898
+start at 1902619280
+deadline with margin set 2066773618
+circles.size = 1
+stop at 1997316095. Jitter 51869559
+Frame #899
+start at 2066840243
+deadline with margin set 2230994581
+circles.size = 1
+stop at 2197613530. Jitter 15793087
+circles.size = 1
+Frame #900
+start at 2231116865
+deadline with margin set 2395271203
+stop at 2296270994. Jitter 81412245
+circles.size = 1
+Frame #901
+start at 2395363275
+deadline with margin set 2559517613
+stop at 2475656620. Jitter 66273029
+circles.size = 1
+Frame #902
+start at 2559579270
+deadline with margin set 2723733608
+stop at 2598799333. Jitter 107346311
+circles.size = 1
+Frame #903
+start at 2724011085
+deadline with margin set 2888165423
+stop at 2780900571. Jitter 89676888
+circles.size = 1
+Frame #904
+start at 2889613557
+deadline with margin set 3053767895
+stop at 2937184403. Jitter 98995528
+circles.size = 1
+stop at 3045759949. Jitter -9580018
+Frame #905
+start at 3053972772
+deadline with margin set 3218127110
+circles.size = 1
+MISSED DEADLINE
+Frame #906
+start at 3218233860
+deadline with margin set 3382388198
+stop at 3237183351. Jitter 127616883
+circles.size = 1
+stop at 3372603680. Jitter -7803446
+Frame #907
+start at 3382464938
+deadline with margin set 3546619276
+circles.size = 1
+MISSED DEADLINE
+Frame #908
+start at 3546670914
+deadline with margin set 3710825252
+circles.size = 1
+stop at 3579693796. Jitter 113543492
+Frame #909
+start at 3710886264
+deadline with margin set 3875040602
+circles.size = 1
+stop at 3736952237. Jitter 120500401
+stop at 3845001467. Jitter 12451171
+circles.size = 1
+Frame #910
+start at 3875152028
+deadline with margin set 4039306366
+circles.size = 1
+stop at 3940413049. Jitter 81305353
+Frame #911
+start at 4039386283
+deadline with margin set 4203540621
+stop at 4080169877. Jitter 105782780
+circles.size = 1
+Frame #912
+start at 4203600278
+deadline with margin set 72787320
+stop at 4271784211. Jitter 78382441
+circles.size = 1
+Frame #913
+start at 72961743
+deadline with margin set 237116081
+MISSED DEADLINE
+Frame #914
+start at 237168064
+deadline with margin set 401322402
+stop at 249596292. Jitter 134138146
+circles.size = 1
+Frame #915
+start at 401397144
+deadline with margin set 565551482
+stop at 423864531. Jitter 124098987
+circles.size = 1
+Frame #916
+start at 565600289
+deadline with margin set 729754627
+stop at 576383359. Jitter 135783304
+circles.size = 1
+stop at 716297148. Jitter -4130485
+Frame #917
+start at 729854992
+deadline with margin set 894009330
+circles.size = 1
+stop at 861636917. Jitter 14784449
+circles.size = 1
+Frame #918
+start at 894074651
+deadline with margin set 1058228989
+stop at 988364711. Jitter 52276314
+circles.size = 1
+Frame #919
+start at 1058311524
+deadline with margin set 1222465862
+stop at 1121672088. Jitter 83205810
+circles.size = 1
+Frame #920
+start at 1222517514
+deadline with margin set 1386671852
+stop at 1317128700. Jitter 51955188
+circles.size = 1
+Frame #921
+start at 1386719650
+deadline with margin set 1550873988
+stop at 1466749834. Jitter 66536190
+circles.size = 1
+Frame #922
+start at 1550950795
+deadline with margin set 1715105133
+stop at 1579852399. Jitter 117664770
+circles.size = 1
+Frame #923
+start at 1715160951
+deadline with margin set 1879315289
+stop at 1764620834. Jitter 97106491
+circles.size = 1
+Frame #924
+start at 1879465071
+deadline with margin set 2043619409
+stop at 1930247245. Jitter 95784200
+circles.size = 1
+Frame #925
+start at 2043686511
+deadline with margin set 2207840849
+stop at 2058963869. Jitter 131289016
+circles.size = 1
+Frame #926
+start at 2207901909
+deadline with margin set 2372056247
+stop at 2226934027. Jitter 127534256
+circles.size = 1
+Frame #927
+start at 2372178814
+deadline with margin set 2536333152
+stop at 2416109915. Jitter 102635273
+circles.size = 1
+Frame #928
+start at 2536771897
+deadline with margin set 2700926235
+stop at 2570606559. Jitter 112731712
+circles.size = 1
+stop at 2680210236. Jitter 3128035
+Frame #929
+start at 2701007971
+deadline with margin set 2865162309
+circles.size = 1
+stop at 2821531092. Jitter 26043253
+Frame #930
+start at 2865231303
+deadline with margin set 3029385641
+circles.size = 1
+stop at 2960665220. Jitter 51132457
+circles.size = 1
+Frame #931
+start at 3029453662
+deadline with margin set 3193608000
+stop at 3136367831. Jitter 39652205
+circles.size = 1
+Frame #932
+start at 3193729560
+deadline with margin set 3357883898
+stop at 3239105758. Jitter 101190176
+circles.size = 1
+Frame #933
+start at 3358211017
+deadline with margin set 3522365355
+stop at 3452233983. Jitter 52543408
+circles.size = 1
+Frame #934
+start at 3522436450
+deadline with margin set 3686590788
+stop at 3552870795. Jitter 116132029
+circles.size = 1
+Frame #935
+start at 3686638498
+deadline with margin set 3850792836
+stop at 3750379556. Jitter 82825316
+circles.size = 1
+Frame #936
+start at 3850926085
+deadline with margin set 4015080423
+stop at 3868365165. Jitter 129127294
+circles.size = 1
+Frame #937
+start at 4015183686
+deadline with margin set 4179338024
+stop at 4059700337. Jitter 102049723
+circles.size = 1
+Frame #938
+start at 4179443370
+deadline with margin set 48630412
+stop at 4202276840. Jitter 123732904
+circles.size = 1
+stop at 40299012. Jitter -9256564
+Frame #939
+start at 48671022
+deadline with margin set 212825360
+circles.size = 1
+stop at 183604530. Jitter 11632866
+circles.size = 1
+Frame #940
+start at 212880865
+deadline with margin set 377035203
+circles.size = 1
+stop at 344916696. Jitter 14530543
+Frame #941
+start at 377087011
+deadline with margin set 541241349
+stop at 455819833. Jitter 67833552
+circles.size = 1
+Frame #942
+start at 541282979
+deadline with margin set 705437317
+stop at 623194467. Jitter 64654886
+circles.size = 1
+Frame #943
+start at 705509211
+deadline with margin set 869663549
+stop at 775447833. Jitter 76627752
+circles.size = 1
+Frame #944
+start at 869750442
+deadline with margin set 1033904780
+stop at 905807781. Jitter 110509035
+circles.size = 1
+Frame #945
+start at 1033980163
+deadline with margin set 1198134501
+stop at 1052881901. Jitter 127664636
+circles.size = 1
+Frame #946
+start at 1198882028
+deadline with margin set 1363036366
+stop at 1248056742. Jitter 97391660
+circles.size = 1
+Frame #947
+start at 1363138257
+deadline with margin set 1527292595
+stop at 1356377083. Jitter -10928681
+circles.size = 1
+Frame #948
+start at 1527349575
+deadline with margin set 1691503913
+stop at 1502150653. Jitter 7553978
+circles.size = 1
+stop at 1655756367. Jitter 18159582
+Frame #949
+start at 1691582509
+deadline with margin set 1855736847
+circles.size = 1
+stop at 1796457979. Jitter 41690904
+Frame #950
+start at 1855805079
+deadline with margin set 2019959417
+circles.size = 1
+MISSED DEADLINE
+Frame #951
+start at 2020020566
+deadline with margin set 2184174904
+stop at 2042182551. Jitter 124404389
+circles.size = 1
+Frame #952
+start at 2184336516
+deadline with margin set 2348490854
+stop at 2283227170. Jitter 47675720
+circles.size = 1
+Frame #953
+start at 2348933645
+deadline with margin set 2513087983
+stop at 2452055741. Jitter 43444278
+Frame #954
+start at 2513186981
+deadline with margin set 2677341319
+circles.size = 1
+MISSED DEADLINE
+Frame #955
+start at 2677407713
+deadline with margin set 2841562051
+stop at 2795096514. Jitter 28877573
+Frame #956
+start at 2841643912
+deadline with margin set 3005798250
+circles.size = 1
+stop at 2990780483. Jitter -2570197
+Frame #957
+start at 3005879435
+deadline with margin set 3170033773
+circles.size = 1
+MISSED DEADLINE
+Frame #958
+start at 3170128655
+deadline with margin set 3334282993
+stop at 3300478235. Jitter 16216794
+Frame #959
+start at 3334388186
+deadline with margin set 3498542524
+circles.size = 1
+MISSED DEADLINE
+Frame #960
+start at 3498706664
+deadline with margin set 3662861002
+stop at 3524065711. Jitter 121207327
+circles.size = 1
+Frame #961
+start at 3663067112
+deadline with margin set 3827221450
+MISSED DEADLINE
+Frame #962
+start at 3827335065
+deadline with margin set 3991489403
+stop at 3859993211. Jitter 113908228
+circles.size = 1
+Frame #963
+start at 3991560834
+deadline with margin set 4155715172
+circles.size = 1
+stop at 4142039286. Jitter -3912078
+Frame #964
+start at 4155805404
+deadline with margin set 24992446
+MISSED DEADLINE
+Frame #965
+start at 25063772
+deadline with margin set 189218110
+stop at 44044857. Jitter 127585289
+circles.size = 1
+Frame #966
+start at 189267562
+deadline with margin set 353421900
+stop at 303335415. Jitter 32498521
+Frame #967
+start at 353486442
+deadline with margin set 517640780
+circles.size = 1
+Frame #968
+start at 517716727
+deadline with margin set 681871065
+stop at 495675126. Jitter 4377690
+circles.size = 1
+MISSED DEADLINE
+Frame #969
+start at 681958834
+deadline with margin set 846113172
+stop at 815960617. Jitter 12564591
+Frame #970
+start at 846203858
+deadline with margin set 1010358196
+circles.size = 1
+MISSED DEADLINE
+Frame #971
+start at 1010430238
+deadline with margin set 1174584576
+stop at 1031143230. Jitter 125853382
+circles.size = 1
+stop at 1174152901. Jitter -17156289
+Frame #972
+start at 1174668595
+deadline with margin set 1338822933
+circles.size = 1
+stop at 1281903272. Jitter 39331697
+Frame #973
+start at 1338923869
+deadline with margin set 1503078207
+circles.size = 1
+stop at 1467152132. Jitter 18338111
+circles.size = 1
+Frame #974
+start at 1503203408
+deadline with margin set 1667357746
+circles.size = 1
+stop at 1629428316. Jitter 20341466
+Frame #975
+start at 1667417691
+deadline with margin set 1831572029
+stop at 1743988329. Jitter 69995736
+circles.size = 1
+Frame #976
+start at 1831631349
+deadline with margin set 1995785687
+stop at 1895532422. Jitter 82665301
+circles.size = 1
+Frame #977
+start at 1995863339
+deadline with margin set 2160017677
+stop at 2051869473. Jitter 90560240
+circles.size = 1
+Frame #978
+start at 2160130587
+deadline with margin set 2324284925
+stop at 2197056748. Jitter 109640213
+circles.size = 1
+Frame #979
+start at 2324343304
+deadline with margin set 2488497642
+stop at 2468735788. Jitter 2173890
+Frame #980
+start at 2488736624
+deadline with margin set 2652890962
+circles.size = 1
+MISSED DEADLINE
+Frame #981
+start at 2653147443
+deadline with margin set 2817301781
+stop at 2744232018. Jitter 55481799
+circles.size = 1
+Frame #982
+start at 2817489360
+deadline with margin set 2981643698
+MISSED DEADLINE
+Frame #983
+start at 2981738628
+deadline with margin set 3145892966
+Frame #984
+start at 3145960657
+deadline with margin set 3310114995
+circles.size = 1
+stop at 3116569049. Jitter 11735953
+MISSED DEADLINE
+Frame #985
+start at 3310193209
+deadline with margin set 3474347547
+stop at 3401746050. Jitter 55013533
+circles.size = 1
+Frame #986
+start at 3474463400
+deadline with margin set 3638617738
+MISSED DEADLINE
+Frame #987
+start at 3638774941
+deadline with margin set 3802929279
+stop at 3673606220. Jitter 111735095
+circles.size = 1
+Frame #988
+start at 3803041538
+deadline with margin set 3967195876
+circles.size = 1
+MISSED DEADLINE
+Frame #989
+start at 3967275481
+deadline with margin set 4131429819
+MISSED DEADLINE
+Frame #990
+start at 4131503904
+deadline with margin set 690946
+stop at 4171914230. Jitter 106156048
+stop at 4171935895. Jitter 106134383
+circles.size = 1
+Frame #991
+start at 834305
+deadline with margin set 164988643
+stop at 63751515. Jitter 83649164
+circles.size = 1
+Frame #992
+start at 165100056
+deadline with margin set 329254394
+MISSED DEADLINE
+Frame #993
+start at 329352423
+deadline with margin set 493506761
+circles.size = 1
+stop at 431182285. Jitter 44736512
+Frame #994
+start at 493675201
+deadline with margin set 657829539
+stop at 546732096. Jitter 93509479
+Frame #995
+start at 657942150
+deadline with margin set 822096488
+circles.size = 1
+MISSED DEADLINE
+Frame #996
+start at 822289302
+deadline with margin set 986443640
+stop at 898065734. Jitter 70789942
+circles.size = 1
+Frame #997
+start at 986521685
+deadline with margin set 1150676023
+stop at 1132565031. Jitter 523028
+Frame #998
+start at 1150744459
+deadline with margin set 1314898797
+circles.size = 1
+stop at 1265090452. Jitter 32220381
+Frame #999
+start at 1315248254
+deadline with margin set 1479402592
+circles.size = 1
+stop at 1437934821. Jitter 23879807
+circles.size = 1
+Frame #1000
+start at 1479483371
+deadline with margin set 1643637709
+stop at 1548750901. Jitter 77298844
+circles.size = 1
+Frame #1001
+start at 1643694843
+deadline with margin set 1807849181
+stop at 1721948110. Jitter 68313107
+circles.size = 1
+Frame #1002
+start at 1807904232
+deadline with margin set 1972058570
+stop at 1875941430. Jitter 78529176
+circles.size = 1
+Frame #1003
+start at 1972127807
+deadline with margin set 2136282145
+stop at 2022406571. Jitter 96287610
+circles.size = 1
+Frame #1004
+start at 2136392077
+deadline with margin set 2300546415
+stop at 2221626810. Jitter 61331641
+circles.size = 1
+Frame #1005
+start at 2300620412
+deadline with margin set 2464774750
+MISSED DEADLINE
+Frame #1006
+start at 2464925460
+deadline with margin set 2629079798
+circles.size = 1
+stop at 2544955866. Jitter 66535968
+Frame #1007
+start at 2629253059
+deadline with margin set 2793407397
+stop at 2663398615. Jitter 112420818
+circles.size = 1
+Frame #1008
+start at 2793991879
+deadline with margin set 2958146217
+MISSED DEADLINE
+Frame #1009
+start at 2958336534
+deadline with margin set 3122490872
+circles.size = 1
+stop at 3027736450. Jitter 77166458
+Frame #1010
+start at 3122672038
+deadline with margin set 3286826376
+stop at 3209247687. Jitter 59990725
+circles.size = 1
+Frame #1011
+start at 3286964837
+deadline with margin set 3451119175
+MISSED DEADLINE
+Frame #1012
+start at 3451177380
+deadline with margin set 3615331718
+stop at 3505536414. Jitter 92207340
+circles.size = 1
+Frame #1013
+start at 3615465961
+deadline with margin set 3779620299
+stop at 3690143009. Jitter 71889326
+Frame #1014
+start at 3779710690
+deadline with margin set 3943865028
+circles.size = 1
+stop at 3930088086. Jitter -3811022
+Frame #1015
+start at 3944004041
+deadline with margin set 4108158379
+circles.size = 1
+MISSED DEADLINE
+Frame #1016
+start at 4108228656
+deadline with margin set 4272382994
+MISSED DEADLINE
+Frame #1017
+start at 4272468271
+deadline with margin set 141655313
+circles.size = 1
+stop at 53060382. Jitter 71006967
+Frame #1018
+start at 141736893
+deadline with margin set 305891231
+stop at 178651292. Jitter 109651975
+circles.size = 1
+Frame #1019
+start at 305953436
+deadline with margin set 470107774
+MISSED DEADLINE
+Frame #1020
+start at 470182323
+deadline with margin set 634336661
+stop at 509275059. Jitter 107473638
+circles.size = 1
+Frame #1021
+start at 634471607
+deadline with margin set 798625945
+stop at 695217286. Jitter 85820695
+circles.size = 1
+Frame #1022
+start at 798701837
+deadline with margin set 962856175
+stop at 955847670. Jitter -10579459
+Frame #1023
+start at 962988366
+deadline with margin set 1127142704
+circles.size = 1
+MISSED DEADLINE
+Frame #1024
+start at 1127229377
+deadline with margin set 1291383715
+circles.size = 1
+stop at 1249416833. Jitter 24378918
+Frame #1025
+start at 1291443359
+deadline with margin set 1455597697
+stop at 1325740376. Jitter 112269357
+circles.size = 1
+Frame #1026
+start at 1455661507
+deadline with margin set 1619815845
+stop at 1512945398. Jitter 89282483
+circles.size = 1
+Frame #1027
+start at 1619972087
+deadline with margin set 1784126425
+stop at 1638094140. Jitter 128444321
+circles.size = 1
+stop at 1778977157. Jitter -12438696
+Frame #1028
+start at 1784331622
+deadline with margin set 1948485960
+circles.size = 1
+MISSED DEADLINE
+Frame #1029
+start at 1948580748
+deadline with margin set 2112735086
+stop at 1971467361. Jitter 123679761
+circles.size = 1
+stop at 2081527659. Jitter 13619463
+Frame #1030
+start at 2112876382
+deadline with margin set 2277030720
+circles.size = 1
+MISSED DEADLINE
+Frame #1031
+start at 2277094520
+deadline with margin set 2441248858
+circles.size = 1
+stop at 2225683881. Jitter 197977013
+stop at 2423144620. Jitter 516274
+Frame #1032
+start at 2441315055
+deadline with margin set 2605469393
+circles.size = 1
+stop at 2529980927. Jitter 57900502
+circles.size = 1
+Frame #1033
+start at 2605613340
+deadline with margin set 2769767678
+stop at 2674239717. Jitter 77939997
+circles.size = 1
+Frame #1034
+start at 2769925995
+deadline with margin set 2934080333
+MISSED DEADLINE
+Frame #1035
+start at 2934161519
+deadline with margin set 3098315857
+circles.size = 1
+stop at 2999123364. Jitter 81604529
+Frame #1036
+start at 3098552189
+deadline with margin set 3262706527
+stop at 3194424235. Jitter 50694328
+circles.size = 1
+Frame #1037
+start at 3262868072
+deadline with margin set 3427022410
+stop at 3412075237. Jitter -2640791
+Frame #1038
+start at 3427095368
+deadline with margin set 3591249706
+circles.size = 1
+MISSED DEADLINE
+Frame #1039
+start at 3591333444
+deadline with margin set 3755487782
+circles.size = 1
+MISSED DEADLINE
+Frame #1040
+start at 3755560993
+deadline with margin set 3919715331
+MISSED DEADLINE
+Frame #1041
+start at 3919787031
+deadline with margin set 4083941369
+stop at 3943655119. Jitter 122698286
+stop at 3943676888. Jitter 122676517
+circles.size = 1
+Frame #1042
+start at 4084021297
+deadline with margin set 4248175635
+stop at 4113020894. Jitter 117566777
+circles.size = 1
+Frame #1043
+start at 4248232336
+deadline with margin set 117419378
+MISSED DEADLINE
+Frame #1044
+start at 117528575
+deadline with margin set 281682913
+circles.size = 1
+stop at 196239154. Jitter 67855795
+Frame #1045
+start at 281752008
+deadline with margin set 445906346
+stop at 330150469. Jitter 98167913
+Frame #1046
+start at 445981221
+deadline with margin set 610135559
+circles.size = 1
+MISSED DEADLINE
+Frame #1047
+start at 610397029
+deadline with margin set 774551367
+stop at 681128933. Jitter 75834470
+circles.size = 1
+Frame #1048
+start at 774676700
+deadline with margin set 938831038
+MISSED DEADLINE
+Frame #1049
+start at 938926374
+deadline with margin set 1103080712
+circles.size = 1
+stop at 997091732. Jitter 88401016
+Frame #1050
+start at 1103199327
+deadline with margin set 1267353665
+stop at 1126124245. Jitter 123641456
+circles.size = 1
+Frame #1051
+start at 1267433221
+deadline with margin set 1431587559
+MISSED DEADLINE
+Frame #1052
+start at 1431678837
+deadline with margin set 1595833175
+circles.size = 1
+stop at 1522555148. Jitter 55690063
+Frame #1053
+start at 1595928295
+deadline with margin set 1760082633
+circles.size = 1
+stop at 1712998967. Jitter 29495702
+Frame #1054
+start at 1760125829
+deadline with margin set 1924280167
+circles.size = 1
+stop at 1883615935. Jitter 23076268
+Frame #1055
+start at 1924359194
+deadline with margin set 2088513532
+stop at 2003884449. Jitter 67041119
+circles.size = 1
+Frame #1056
+start at 2088741820
+deadline with margin set 2252896158
+stop at 2116364932. Jitter 118943262
+circles.size = 1
+Frame #1057
+start at 2253058044
+deadline with margin set 2417212382
+stop at 2292729662. Jitter 106894756
+circles.size = 1
+Frame #1058
+start at 2417319490
+deadline with margin set 2581473828
+stop at 2467223113. Jitter 96662751
+circles.size = 1
+stop at 2574609549. Jitter -10723685
+Frame #1059
+start at 2581580867
+deadline with margin set 2745735205
+circles.size = 1
+MISSED DEADLINE
+Frame #1060
+start at 2745831776
+deadline with margin set 2909986114
+stop at 2778990102. Jitter 113408048
+circles.size = 1
+stop at 2874484327. Jitter 17913823
+Frame #1061
+start at 2910075758
+deadline with margin set 3074230096
+circles.size = 1
+stop at 3016205671. Jitter 40436461
+Frame #1062
+start at 3074296565
+deadline with margin set 3238450903
+circles.size = 1
+stop at 3175459963. Jitter 45402976
+circles.size = 1
+Frame #1063
+start at 3238507217
+deadline with margin set 3402661555
+circles.size = 1
+stop at 3313688170. Jitter 71385421
+Frame #1064
+start at 3402716061
+deadline with margin set 3566870399
+MISSED DEADLINE
+Frame #1065
+start at 3566914415
+deadline with margin set 3731068753
+stop at 3607591557. Jitter 105889232
+circles.size = 1
+Frame #1066
+start at 3731128706
+deadline with margin set 3895283044
+stop at 3757174830. Jitter 120520250
+circles.size = 1
+stop at 3893263981. Jitter -15568901
+Frame #1067
+start at 3898601353
+deadline with margin set 4062755691
+circles.size = 1
+stop at 4033123900. Jitter 12043827
+Frame #1068
+start at 4062858766
+deadline with margin set 4227013104
+circles.size = 1
+stop at 4217157476. Jitter -7732336
+Frame #1069
+start at 4227109251
+deadline with margin set 96296293
+circles.size = 1
+stop at 33748868. Jitter 44959461
+Frame #1070
+start at 96423032
+deadline with margin set 260577370
+circles.size = 1
+stop at 183832728. Jitter 59156678
+circles.size = 1
+Frame #1071
+start at 260735694
+deadline with margin set 424890032
+stop at 322508361. Jitter 84793707
+circles.size = 1
+Frame #1072
+start at 424949979
+deadline with margin set 589104317
+stop at 464729151. Jitter 106787202
+circles.size = 1
+Frame #1073
+start at 589178221
+deadline with margin set 753332559
+stop at 605198871. Jitter 130545724
+circles.size = 1
+Frame #1074
+start at 753453178
+deadline with margin set 917607516
+stop at 808099908. Jitter 91919644
+circles.size = 1
+Frame #1075
+start at 917926037
+deadline with margin set 1082080375
+stop at 968447704. Jitter 96044707
+circles.size = 1
+stop at 1070303717. Jitter -5811306
+Frame #1076
+start at 1082179875
+deadline with margin set 1246334213
+circles.size = 1
+MISSED DEADLINE
+Frame #1077
+start at 1246406184
+deadline with margin set 1410560522
+stop at 1260152829. Jitter 132819729
+circles.size = 1
+stop at 1396251624. Jitter -3279066
+Frame #1078
+start at 1410631868
+deadline with margin set 1574786206
+circles.size = 1
+stop at 1539649777. Jitter 17548465
+circles.size = 1
+Frame #1079
+start at 1574835054
+deadline with margin set 1738989392
+stop at 1675429220. Jitter 45972208
+circles.size = 1
+Frame #1080
+start at 1739068134
+deadline with margin set 1903222472
+stop at 1826855428. Jitter 58779080
+circles.size = 1
+Frame #1081
+start at 1903281788
+deadline with margin set 2067436126
+stop at 1977944162. Jitter 71904000
+circles.size = 1
+Frame #1082
+start at 2067509273
+deadline with margin set 2231663611
+stop at 2128428730. Jitter 85646917
+circles.size = 1
+Frame #1083
+start at 2234362101
+deadline with margin set 2398516439
+stop at 2284625263. Jitter 96303212
+circles.size = 1
+Frame #1084
+start at 2398694856
+deadline with margin set 2562849194
+stop at 2422501743. Jitter 122759487
+circles.size = 1
+stop at 2511214511. Jitter 34046719
+Frame #1085
+start at 2562892985
+deadline with margin set 2727047323
+circles.size = 1
+stop at 2654785414. Jitter 54673945
+circles.size = 1
+Frame #1086
+start at 2727145485
+deadline with margin set 2891299823
+stop at 2831350963. Jitter 42360896
+circles.size = 1
+Frame #1087
+start at 2891404443
+deadline with margin set 3055558781
+stop at 2933046939. Jitter 104923878
+circles.size = 1
+Frame #1088
+start at 3055618803
+deadline with margin set 3219773141
+stop at 3119466355. Jitter 82718822
+circles.size = 1
+Frame #1089
+start at 3219850102
+deadline with margin set 3384004440
+stop at 3272064455. Jitter 94352021
+circles.size = 1
+stop at 3381751053. Jitter -15334577
+Frame #1090
+start at 3384104784
+deadline with margin set 3548259122
+circles.size = 1
+stop at 3527418782. Jitter 3252376
+Frame #1091
+start at 3548353738
+deadline with margin set 3712508076
+circles.size = 1
+stop at 3685506839. Jitter 9413273
+Frame #1092
+start at 3712691644
+deadline with margin set 3876845982
+circles.size = 1
+stop at 3870078763. Jitter -10820745
+Frame #1093
+start at 3876911068
+deadline with margin set 4041065406
+circles.size = 1
+stop at 3978342341. Jitter 45135101
+circles.size = 1
+Frame #1094
+start at 4041125429
+deadline with margin set 4205279767
+stop at 4162068337. Jitter 25623466
+circles.size = 1
+Frame #1095
+start at 4205429374
+deadline with margin set 74616416
+stop at 4263702633. Jitter 88293115
+circles.size = 1
+Frame #1096
+start at 74668896
+deadline with margin set 238823234
+stop at 115849523. Jitter 105385747
+circles.size = 1
+Frame #1097
+start at 238880817
+deadline with margin set 403035155
+stop at 299399741. Jitter 86047450
+circles.size = 1
+Frame #1098
+start at 403128204
+deadline with margin set 567282542
+stop at 453479970. Jitter 96214608
+circles.size = 1
+Frame #1099
+start at 567386996
+deadline with margin set 731541334
+stop at 615929939. Jitter 98023431
+circles.size = 1
+Frame #1100
+start at 731631668
+deadline with margin set 895786006
+circles.size = 1
+stop at 751339827. Jitter 126858215
+stop at 884408869. Jitter -6210827
+Frame #1101
+start at 895915298
+deadline with margin set 1060069636
+circles.size = 1
+MISSED DEADLINE
+Frame #1102
+start at 1060133413
+deadline with margin set 1224287751
+stop at 1073438979. Jitter 133260808
+circles.size = 1
+stop at 1178414083. Jitter 28285704
+Frame #1103
+start at 1224356683
+deadline with margin set 1388511021
+circles.size = 1
+stop at 1369095841. Jitter 1827216
+Frame #1104
+start at 1388570475
+deadline with margin set 1552724813
+circles.size = 1
+stop at 1495365913. Jitter 39770936
+Frame #1105
+start at 1552822025
+deadline with margin set 1716976363
+circles.size = 1
+stop at 1675308474. Jitter 24079925
+circles.size = 1
+Frame #1106
+start at 1717050136
+deadline with margin set 1881204474
+stop at 1774984475. Jitter 88632035
+circles.size = 1
+Frame #1107
+start at 1881300068
+deadline with margin set 2045454406
+stop at 1954597052. Jitter 73269390
+circles.size = 1
+Frame #1108
+start at 2045557708
+deadline with margin set 2209712046
+stop at 2102513994. Jitter 89610088
+circles.size = 1
+Frame #1109
+start at 2209775558
+deadline with margin set 2373929896
+stop at 2222804422. Jitter 133537510
+circles.size = 1
+Frame #1110
+start at 2374278700
+deadline with margin set 2538433038
+stop at 2372052982. Jitter -15711050
+circles.size = 1
+MISSED DEADLINE
+Frame #1111
+start at 2538652633
+deadline with margin set 2702806971
+stop at 2566035885. Jitter 119183122
+circles.size = 1
+stop at 2694979150. Jitter -9760143
+Frame #1112
+start at 2702883243
+deadline with margin set 2867037581
+circles.size = 1
+stop at 2844180326. Jitter 5269291
+Frame #1113
+start at 2867098333
+deadline with margin set 3031252671
+circles.size = 1
+stop at 2999686436. Jitter 13978271
+circles.size = 1
+Frame #1114
+start at 3031311337
+deadline with margin set 3195465675
+stop at 3125624365. Jitter 52253346
+circles.size = 1
+Frame #1115
+start at 3195511999
+deadline with margin set 3359666337
+stop at 3292128238. Jitter 49950135
+circles.size = 1
+Frame #1116
+start at 3359724535
+deadline with margin set 3523878873
+stop at 3432053130. Jitter 74237779
+circles.size = 1
+Frame #1117
+start at 3523963995
+deadline with margin set 3688118333
+stop at 3544830283. Jitter 125700086
+circles.size = 1
+Frame #1118
+start at 3689147916
+deadline with margin set 3853302254
+circles.size = 1
+stop at 3761032465. Jitter 74681825
+stop at 3824548893. Jitter 11165397
+Frame #1119
+start at 3853365247
+deadline with margin set 4017519585
+circles.size = 1
+MISSED DEADLINE
+Frame #1120
+start at 4017572677
+deadline with margin set 4181727015
+stop at 4031356734. Jitter 132782317
+circles.size = 1
+stop at 4173614997. Jitter -9475946
+Frame #1121
+start at 4182303608
+deadline with margin set 51490650
+circles.size = 1
+MISSED DEADLINE
+Frame #1122
+start at 51577853
+deadline with margin set 215732191
+MISSED DEADLINE
+Frame #1123
+start at 215972716
+deadline with margin set 380127054
+circles.size = 1
+stop at 292664029. Jitter 69875061
+Frame #1124
+start at 380374506
+deadline with margin set 544528844
+MISSED DEADLINE
+Frame #1125
+start at 544592361
+deadline with margin set 708746699
+stop at 640187676. Jitter 50971059
+circles.size = 1
+Frame #1126
+start at 708804319
+deadline with margin set 872958657
+stop at 809999311. Jitter 45371382
+Frame #1127
+start at 873050024
+deadline with margin set 1037204362
+circles.size = 1
+MISSED DEADLINE
+Frame #1128
+start at 1037357704
+deadline with margin set 1201512042
+circles.size = 1
+MISSED DEADLINE
+Frame #1129
+start at 1201588880
+deadline with margin set 1365743218
+stop at 1329962424. Jitter 18192830
+stop at 1330097779. Jitter 18057475
+Frame #1130
+start at 1365818180
+deadline with margin set 1529972518
+circles.size = 1
+MISSED DEADLINE
+Frame #1131
+start at 1530194723
+deadline with margin set 1694349061
+circles.size = 1
+stop at 1678147091. Jitter -1385994
+Frame #1132
+start at 1713501415
+deadline with margin set 1877655753
+stop at 1868470798. Jitter -8403009
+Frame #1133
+start at 1877735610
+deadline with margin set 2041889948
+circles.size = 1
+MISSED DEADLINE
+Frame #1134
+start at 2042016207
+deadline with margin set 2206170545
+stop at 2108961549. Jitter 79621032
+circles.size = 1
+Frame #1135
+start at 2206252588
+deadline with margin set 2370406926
+MISSED DEADLINE
+Frame #1136
+start at 2370493969
+deadline with margin set 2534648307
+circles.size = 1
+stop at 2452094427. Jitter 64965916
+Frame #1137
+start at 2534725937
+deadline with margin set 2698880275
+stop at 2586493154. Jitter 94799157
+Frame #1138
+start at 2698998044
+deadline with margin set 2863152382
+circles.size = 1
+MISSED DEADLINE
+Frame #1139
+start at 2863260204
+deadline with margin set 3027414542
+circles.size = 1
+stop at 3013006552. Jitter -3179974
+Frame #1140
+start at 3027470284
+deadline with margin set 3191624622
+stop at 3106212978. Jitter 67823680
+circles.size = 1
+Frame #1141
+start at 3191692290
+deadline with margin set 3355846628
+circles.size = 1
+stop at 3311924138. Jitter 26334526
+Frame #1142
+start at 3355886643
+deadline with margin set 3520040981
+circles.size = 1
+stop at 3445492294. Jitter 56960723
+stop at 3510179486. Jitter -7726469
+Frame #1143
+start at 3520521812
+deadline with margin set 3684676150
+circles.size = 1
+stop at 3681014314. Jitter -13926128
+Frame #1144
+start at 3684740797
+deadline with margin set 3848895135
+circles.size = 1
+MISSED DEADLINE
+Frame #1145
+start at 3849141851
+deadline with margin set 4013296189
+circles.size = 1
+stop at 3955722579. Jitter 39985646
+Frame #1146
+start at 4013355889
+deadline with margin set 4177510227
+stop at 4097053384. Jitter 62868879
+circles.size = 1
+Frame #1147
+start at 4177642160
+deadline with margin set 46829202
+stop at 4234571722. Jitter 89636812
+circles.size = 1
+stop at 38257120. Jitter -9015882
+Frame #1148
+start at 47009934
+deadline with margin set 211164272
+circles.size = 1
+MISSED DEADLINE
+Frame #1149
+start at 211225609
+deadline with margin set 375379947
+stop at 303867696. Jitter 53924287
+circles.size = 1
+Frame #1150
+start at 375574583
+deadline with margin set 539728921
+MISSED DEADLINE
+Frame #1151
+start at 539813462
+deadline with margin set 703967800
+circles.size = 1
+stop at 606411214. Jitter 79968622
+Frame #1152
+start at 704032863
+deadline with margin set 868187201
+stop at 798640110. Jitter 51959127
+circles.size = 1
+Frame #1153
+start at 868294396
+deadline with margin set 1032448734
+MISSED DEADLINE
+Frame #1154
+start at 1032517599
+deadline with margin set 1196671937
+stop at 1056764156. Jitter 122319817
+circles.size = 1
+Frame #1155
+start at 1196803012
+deadline with margin set 1360957350
+stop at 1226761982. Jitter 116607404
+circles.size = 1
+Frame #1156
+start at 1361014237
+deadline with margin set 1525168575
+stop at 1515995763. Jitter -8415152
+Frame #1157
+start at 1525249418
+deadline with margin set 1689403756
+circles.size = 1
+MISSED DEADLINE
+Frame #1158
+start at 1689517825
+deadline with margin set 1853672163
+stop at 1774897688. Jitter 61186511
+circles.size = 1
+Frame #1159
+start at 1853727175
+deadline with margin set 2017881513
+stop at 2015250484. Jitter -14956935
+Frame #1160
+start at 2017958242
+deadline with margin set 2182112580
+circles.size = 1
+MISSED DEADLINE
+Frame #1161
+start at 2182177155
+deadline with margin set 2346331493
+stop at 2260885012. Jitter 67858517
+circles.size = 1
+Frame #1162
+start at 2346482226
+deadline with margin set 2510636564
+MISSED DEADLINE
+Frame #1163
+start at 2510717043
+deadline with margin set 2674871381
+circles.size = 1
+stop at 2610592100. Jitter 46691317
+Frame #1164
+start at 2674976181
+deadline with margin set 2839130519
+stop at 2751731326. Jitter 69811229
+Frame #1165
+start at 2839239798
+deadline with margin set 3003394136
+circles.size = 1
+MISSED DEADLINE
+Frame #1166
+start at 3003510081
+deadline with margin set 3167664419
+circles.size = 1
+stop at 3154749705. Jitter -4673250
+Frame #1167
+start at 3167768891
+deadline with margin set 3331923229
+stop at 3280390885. Jitter 33944380
+Frame #1168
+start at 3331983137
+deadline with margin set 3496137475
+circles.size = 1
+MISSED DEADLINE
+Frame #1169
+start at 3496256598
+deadline with margin set 3660410936
+stop at 3548008734. Jitter 94814238
+circles.size = 1
+Frame #1170
+start at 3660468969
+deadline with margin set 3824623307
+stop at 3685029021. Jitter 122006322
+circles.size = 1
+stop at 3823219007. Jitter -16183664
+Frame #1171
+start at 3824679257
+deadline with margin set 3988833595
+circles.size = 1
+stop at 3969943689. Jitter 1301942
+Frame #1172
+start at 3988891525
+deadline with margin set 4153045863
+circles.size = 1
+stop at 4076672187. Jitter 58785712
+circles.size = 1
+Frame #1173
+start at 4153094095
+deadline with margin set 22281137
+stop at 4216087048. Jitter 83573421
+circles.size = 1
+Frame #1174
+start at 22460152
+deadline with margin set 186614490
+stop at 106991355. Jitter 62035171
+circles.size = 1
+Frame #1175
+start at 186655651
+deadline with margin set 350809989
+stop at 257792233. Jitter 75429792
+circles.size = 1
+Frame #1176
+start at 350846827
+deadline with margin set 515001165
+stop at 390322831. Jitter 107090370
+circles.size = 1
+Frame #1177
+start at 515057064
+deadline with margin set 679211402
+stop at 568813610. Jitter 92809828
+circles.size = 1
+Frame #1178
+start at 679272301
+deadline with margin set 843426639
+stop at 726962397. Jitter 98876278
+circles.size = 1
+Frame #1179
+start at 843785426
+deadline with margin set 1007939764
+stop at 887392549. Jitter 102959251
+circles.size = 1
+Frame #1180
+start at 1008036911
+deadline with margin set 1172191249
+stop at 1032535963. Jitter 122067322
+circles.size = 1
+stop at 1162598278. Jitter -7994993
+Frame #1181
+start at 1172264076
+deadline with margin set 1336418414
+circles.size = 1
+stop at 1309272925. Jitter 9557525
+circles.size = 1
+Frame #1182
+start at 1336476242
+deadline with margin set 1500630580
+stop at 1465301207. Jitter 17741409
+circles.size = 1
+Frame #1183
+start at 1500731529
+deadline with margin set 1664885867
+stop at 1607636249. Jitter 39661654
+circles.size = 1
+Frame #1184
+start at 1664931977
+deadline with margin set 1829086315
+stop at 1710938442. Jitter 100559909
+circles.size = 1
+Frame #1185
+start at 1829168984
+deadline with margin set 1993323322
+stop at 1857957114. Jitter 117778244
+circles.size = 1
+Frame #1186
+start at 1993396879
+deadline with margin set 2157551217
+stop at 2010404539. Jitter 129558714
+circles.size = 1
+Frame #1187
+start at 2158084634
+deadline with margin set 2322238972
+stop at 2205748297. Jitter 98902711
+circles.size = 1
+stop at 2306653826. Jitter -2002818
+Frame #1188
+start at 2322783691
+deadline with margin set 2486938029
+circles.size = 1
+MISSED DEADLINE
+Frame #1189
+start at 2487075748
+deadline with margin set 2651230086
+stop at 2515558330. Jitter 118083792
+circles.size = 1
+Frame #1190
+start at 2651345880
+deadline with margin set 2815500218
+stop at 2673332519. Jitter 124579735
+circles.size = 1
+stop at 2812106915. Jitter -14194661
+Frame #1191
+start at 2815565964
+deadline with margin set 2979720302
+circles.size = 1
+MISSED DEADLINE
+Frame #1192
+start at 2979795583
+deadline with margin set 3143949921
+circles.size = 2
+stop at 3007908602. Jitter 118453355
+stop at 3109526492. Jitter 16835465
+Frame #1193
+start at 3144125088
+deadline with margin set 3308279426
+circles.size = 2
+MISSED DEADLINE
+Frame #1194
+start at 3308350330
+deadline with margin set 3472504668
+circles.size = 3
+stop at 3344550465. Jitter 110366239
+Frame #1195
+start at 3472572447
+deadline with margin set 3636726785
+stop at 3581276334. Jitter 37862487
+circles.size = 4
+Frame #1196
+start at 3636785242
+deadline with margin set 3800939580
+stop at 3678828765. Jitter 104522851
+Frame #1197
+start at 3801003870
+deadline with margin set 3965158208
+circles.size = 4
+MISSED DEADLINE
+Frame #1198
+start at 3965205374
+deadline with margin set 4129359712
+stop at 3984020535. Jitter 127751213
+Frame #1199
+start at 4129449471
+deadline with margin set 4293603809
+circles.size = 4
+stop at 4239113665. Jitter 36902180
+Frame #1200
+start at 4293683986
+deadline with margin set 162871028
+circles.size = 4
+MISSED DEADLINE
+Frame #1201
+start at 163025990
+deadline with margin set 327180328
+MISSED DEADLINE
+Frame #1202
+start at 327231758
+deadline with margin set 491386096
+stop at 409590949. Jitter 64207183
+circles.size = 1
+Frame #1203
+start at 491444608
+deadline with margin set 655598946
+stop at 553466565. Jitter 84544417
+circles.size = 1
+Frame #1204
+start at 655747100
+deadline with margin set 819901438
+circles.size = 1
+stop at 750510896. Jitter 51802578
+Frame #1205
+start at 820064060
+deadline with margin set 984218398
+stop at 876082633. Jitter 90547801
+circles.size = 1
+Frame #1206
+start at 984314514
+deadline with margin set 1148468852
+stop at 1044659407. Jitter 86221481
+circles.size = 1
+Frame #1207
+start at 114851
